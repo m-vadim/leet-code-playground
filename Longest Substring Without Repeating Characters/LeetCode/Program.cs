@@ -2,7 +2,7 @@
 
 namespace AddTwoNumbers;
 class Program {
-	static void Main(string[] args) {
+	static void Main(string[] _) {
 		AssertCase("abcabcbb", 3);
 		AssertCase("bbbbb", 1);
 		AssertCase("x", 1);

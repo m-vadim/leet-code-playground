@@ -348,4 +348,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-/Add Two Numbers/AddTwoNumbers/.idea/.idea.AddTwoNumbers/.idea/*
+.idea/
