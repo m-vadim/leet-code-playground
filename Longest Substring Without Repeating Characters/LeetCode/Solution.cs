@@ -1,5 +1,6 @@
 namespace LeetCode;
 
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/
 public class Solution {
 	public int LengthOfLongestSubstring(string s) {
 		if (s.Length < 2) {
