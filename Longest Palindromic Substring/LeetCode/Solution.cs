@@ -13,29 +13,17 @@ public class Solution {
         }
 
         ReadOnlySpan<char> sp = s.AsSpan();
-        int longest = 0, from = 0, to = sLength;
-
-        for (int i = 0; i < sLength; i++) {
-            if (longest >= sLength - 1) {
-                break;
-            }
-
-            for (int y = sLength - i; y > 0; y--) {
-                ReadOnlySpan<char> subSp = sp.Slice(i, y);
-
-                if (longest >= subSp.Length) {
-                    break;
-                }
-
-                if (IsPalindrome(subSp) && subSp.Length > longest) {
-                    longest = subSp.Length;
-                    from = i;
-                    to = y;
+        int longestPossible = sLength;
+        while (true) {
+            for (int i = 0; i <= sLength - longestPossible; i++) {
+                ReadOnlySpan<char> subSp = sp.Slice(i, longestPossible);
+                if (IsPalindrome(subSp)) {
+                    return subSp.ToString();
                 }
             }
+
+            longestPossible -= 1;
         }
-
-        return sp.Slice(from, to).ToString();
     }
 
     public static bool IsPalindrome(string s) => IsPalindrome(s.AsSpan());
