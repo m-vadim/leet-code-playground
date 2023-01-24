@@ -3,78 +3,105 @@ namespace LeetCode;
 // https://leetcode.com/problems/median-of-two-sorted-arrays/
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
-        int totalNums = nums1.Length + nums2.Length;
+        int n1Length = nums1.Length;
+        int n2Length = nums2.Length;
+        int totalNums = n1Length + n2Length;
 
         if (totalNums % 2 == 1) {
-            return FindMedianOdd(totalNums, nums1, nums2);
+            return FindMedianOdd(totalNums, nums1, n1Length, nums2, n2Length);
         }
 
-        return FindMedianEven(totalNums, nums1, nums2);
+        return FindMedianEven(totalNums, nums1, n1Length, nums2, n2Length);
     }
 
-    private IndexValue GetMergedIndex(int[] nums1, int[] nums2, Iterators i) {
-        int n1;
-        if (i.Num2Index >= nums2.Length && i.Num1Index < nums1.Length) {
-            n1 = nums1[i.Num1Index];
-            return new IndexValue(i.Num1Index++ + i.Num2Index, n1);
-        }
-
-        int n2;
-        if (i.Num1Index >= nums1.Length && i.Num2Index < nums2.Length) {
-            n2 = nums2[i.Num2Index];
-            return new IndexValue(i.Num1Index + i.Num2Index++, n2);
-        }
-
-        n1 = nums1[i.Num1Index];
-        n2 = nums2[i.Num2Index];
-
-        if (n2 < n1) {
-            return new IndexValue(i.Num1Index + i.Num2Index++, n2);
-        }
-
-        return new IndexValue(i.Num1Index++ + i.Num2Index, n1);
-    }
-
-    private double FindMedianOdd(int totalNums, int[] nums1, int[] nums2) {
+    private double FindMedianOdd(int totalNums, int[] nums1, int nums1Length, int[] nums2, int nums2Length) {
+        int i1 = 0, i2 = 0, mergedIndex = 0;
         int medianIndex = (totalNums + 1) / 2 - 1;
-        var iterators = new Iterators();
 
-        while (iterators.Num1Index < nums1.Length || iterators.Num2Index < nums2.Length) {
-            IndexValue mergedIndex = GetMergedIndex(nums1, nums2, iterators);
-            if (mergedIndex.MergedIndex == medianIndex) {
-                return mergedIndex.Value;
-            }
-        }
+        while (i1 < nums1Length || i2 < nums2Length) {
+            if (i1 < nums1Length && i2 < nums2Length) {
+                int n1 = nums1[i1];
+                int n2 = nums2[i2];
+                bool left = n1 < n2;
 
-        throw new InvalidOperationException();
-    }
+                if (mergedIndex == medianIndex) {
+                    return left ? n1 : n2;
+                }
 
-    private double FindMedianEven(int totalNums, int[] nums1, int[] nums2) {
-        int rightHalfIndex = totalNums / 2;
-        int leftHalfIndex = rightHalfIndex - 1;
-        int sum = 0;
-
-        var iterators = new Iterators();
-
-        while (iterators.Num1Index < nums1.Length || iterators.Num2Index < nums2.Length) {
-            IndexValue mergedIndex = GetMergedIndex(nums1, nums2, iterators);
-            if (mergedIndex.MergedIndex == leftHalfIndex) {
-                sum += mergedIndex.Value;
+                if (left) {
+                    i1++;
+                }
+                else {
+                    i2++;
+                }
+                mergedIndex++;
                 continue;
             }
 
-            if (mergedIndex.MergedIndex == rightHalfIndex) {
-                return (sum + mergedIndex.Value) / 2d;
+            // nums2 ended
+            if (i2 >= nums2Length) {
+                return nums1[i1+(medianIndex - mergedIndex)];
+            }
+
+            // nums1 ended
+            if (i1 >= nums1Length) {
+                return nums2[i2 + (medianIndex - mergedIndex)];
             }
         }
 
         throw new InvalidOperationException();
     }
-    
-    private sealed class Iterators {
-        public int Num1Index { get; set; }
-        public int Num2Index { get; set; }
-    }
 
-    private sealed record IndexValue(int MergedIndex, int Value);
+
+    private double FindMedianEven(int totalNums, int[] nums1, int nums1Length, int[] nums2, int nums2Length) {
+        int i1 = 0, i2 = 0, mergedIndex = 0;
+        int rightHalfIndex = totalNums / 2;
+        int leftHalfIndex = rightHalfIndex - 1;
+        int? leftPart = null;
+
+        while (i1 < nums1Length || i2 < nums2Length) {
+            if (i1 < nums1Length && i2 < nums2Length) {
+                int n1 = nums1[i1];
+                int n2 = nums2[i2];
+                bool left = n1 < n2;
+
+                if (mergedIndex == leftHalfIndex) {
+                    leftPart = left ? n1 : n2;
+                }
+                
+                if (mergedIndex == rightHalfIndex) {
+                    return (leftPart.Value + (left ? n1 : n2)) / 2d;
+                }
+
+                if (left) {
+                    i1++;
+                }
+                else {
+                    i2++;
+                }
+                mergedIndex++;
+                continue;
+            }
+
+            // nums2 ended
+            if (i2 >= nums2Length) {
+                if (leftPart.HasValue) {
+                    return (leftPart.Value + nums1[i1 + (rightHalfIndex - mergedIndex)]) / 2d;
+                }
+
+                return (nums1[i1 + (leftHalfIndex - mergedIndex)] + nums1[i1 + (rightHalfIndex - mergedIndex)]) / 2d;
+            }
+
+            // nums1 ended
+            if (i1 >= nums1Length) {
+                if (leftPart.HasValue) {
+                    return (leftPart.Value + nums2[i2 + (rightHalfIndex - mergedIndex)]) / 2d;
+                }
+
+                return (nums2[i2 + (leftHalfIndex - mergedIndex)] + nums2[i2 + (rightHalfIndex - mergedIndex)]) / 2d;
+            }
+        }
+
+        throw new InvalidOperationException();
+    }
 }
