@@ -4,3 +4,4 @@
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 * [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
