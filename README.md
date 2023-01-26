@@ -6,3 +6,4 @@
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+* [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
