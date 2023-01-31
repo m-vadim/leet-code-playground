@@ -5,28 +5,19 @@ namespace LeetCode;
 // https://leetcode.com/problems/roman-to-integer/
 public class Solution {
     public int RomanToInt(string roman) {
-        int romanLength = roman.Length;
-        int charIndex = 0;
         int number = 0;
-        while (charIndex < romanLength) {
-            int currentCharNum = CharToInt(roman[charIndex]);
-            int nextCharNum = 0;
-            if (charIndex + 1 < romanLength) {
-                nextCharNum = CharToInt(roman[charIndex + 1]);
-            }
+        int previousCharNumber = 0;
 
-            if (currentCharNum > nextCharNum) {
+        foreach (char currentChar in roman) {
+            int currentCharNum = CharToInt(currentChar);
+            if (currentCharNum <= previousCharNumber) {
                 number += currentCharNum;
-                charIndex += 1;
-            }
-            else if (currentCharNum == nextCharNum) {
-                number += currentCharNum * 2;
-                charIndex += 2;
             }
             else {
-                number += nextCharNum - currentCharNum;
-                charIndex += 2;
+                number = number - previousCharNumber * 2 + currentCharNum;
             }
+
+            previousCharNumber = currentCharNum;
         }
 
         return number;
