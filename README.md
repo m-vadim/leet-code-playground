@@ -13,4 +13,5 @@
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
-* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/892552931/)
+* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
