@@ -15,4 +15,5 @@
 * [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
+* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
