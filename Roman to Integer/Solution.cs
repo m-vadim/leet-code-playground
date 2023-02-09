@@ -5,16 +5,17 @@ namespace LeetCode;
 // https://leetcode.com/problems/roman-to-integer/
 public class Solution {
     public int RomanToInt(string roman) {
-        int number = 0;
-        int previousCharNumber = 0;
+        ushort currentCharNum;
+        ushort previousCharNumber = CharToInt(roman[0]);
+        ushort number = previousCharNumber;
 
-        foreach (char currentChar in roman) {
-            int currentCharNum = CharToInt(currentChar);
-            if (currentCharNum <= previousCharNumber) {
-                number += currentCharNum;
+        for (ushort index = 1; index < roman.Length; index++) {
+            currentCharNum = CharToInt(roman[index]);
+            if (currentCharNum > previousCharNumber) {
+                number = (ushort) (number + currentCharNum - previousCharNumber * 2);
             }
             else {
-                number = number - previousCharNumber * 2 + currentCharNum;
+                number += currentCharNum;
             }
 
             previousCharNumber = currentCharNum;
@@ -24,31 +25,16 @@ public class Solution {
     }
 
     [MethodImpl(MethodImplOptions.AggressiveInlining)]
-    private static int CharToInt(char roman) {
-        switch (roman) {
-            case 'I': {
-                return 1;
-            }
-            case 'V': {
-                return 5;
-            }
-            case 'X': {
-                return 10;
-            }
-            case 'L': {
-                return 50;
-            }
-            case 'C': {
-                return 100;
-            }
-            case 'D': {
-                return 500;
-            }
-            case 'M': {
-                return 1000;
-            }
-        }
-
-        throw new InvalidOperationException();
+    private static ushort CharToInt(char roman) {
+        return roman switch {
+            'I' => 1,
+            'V' => 5,
+            'X' => 10,
+            'L' => 50,
+            'C' => 100,
+            'D' => 500,
+            'M' => 1000,
+            _ => throw new InvalidOperationException()
+        };
     }
 }

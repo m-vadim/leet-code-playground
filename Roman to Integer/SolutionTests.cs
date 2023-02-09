@@ -9,6 +9,7 @@ internal class SolutionTests {
         yield return new TestCaseData("LVIII").Returns(58);
         yield return new TestCaseData("MCMXCIV").Returns(1994);
         yield return new TestCaseData("M").Returns(1000);
+        yield return new TestCaseData("IV").Returns(4);
     }
 
     [TestCaseSource(nameof(Cases))]
