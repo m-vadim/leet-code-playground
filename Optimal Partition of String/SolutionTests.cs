@@ -10,7 +10,12 @@ internal class SolutionTests {
     }
 
     [TestCaseSource(nameof(Cases))]
-    public static int ReturnsPartitionsCount(string str) {
-        return new Solution().PartitionString(str);
+    public static int ReturnsPartitionsCountHashSet(string str) {
+        return new Solution().PartitionStringHashSet(str);
+    }
+    
+    [TestCaseSource(nameof(Cases))]
+    public static int ReturnsPartitionsCountArrayMap(string str) {
+        return new Solution().PartitionStringArrayMap(str);
     }
 }
