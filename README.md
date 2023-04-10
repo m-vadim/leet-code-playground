@@ -19,6 +19,7 @@
 * [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 * [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 * [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
