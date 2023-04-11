@@ -29,4 +29,5 @@
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
 * [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 * [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)
+* [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 * [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
