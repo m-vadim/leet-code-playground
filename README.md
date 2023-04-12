@@ -24,6 +24,7 @@
 * [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
 * [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+* [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
 * [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 * [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)
