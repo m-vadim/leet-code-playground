@@ -29,6 +29,7 @@
 | [71. Simplify Path](/Simplify%20Path/Solution.cs) <sup>meduim<sup> | https://leetcode.com/problems/simplify-path/description | 75.51 | 29.9 |
 | [88. Merge Sorted Array](/Merge%20Sorted%20Array/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/merge-sorted-array/description | 64.63 | 52.22 |
 | [121. Best Time to Buy and Sell Stock](/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description | 93.48 | 74.97 |
+| [258. Add Digits](/Add%20Digits/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/add-digits/description/ | 90.13 | 43.31 |
 | [989. Add to Array-Form of Integer](/Add%20to%20Array-Form%20of%20Integer/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/add-to-array-form-of-integer/description | 15.41 | 87.26 |
 | [1431. Kids With the Greatest Number of Candies](/Kids%20With%20the%20Greatest%20Number%20of%20Candies/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/ | 33.1 | 67.31 |
 | [1470. Shuffle the Array](/Shuffle%20the%20Array/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/shuffle-the-array/description | 35.70 | 16.77 |
