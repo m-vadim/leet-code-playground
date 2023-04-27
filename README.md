@@ -21,6 +21,7 @@
 | [22. Generate Parentheses](/Generate%20Parentheses/Solution.cs) <sup>meduim<sup> | https://leetcode.com/problems/generate-parentheses/description | 81.8 | 38.80 |
 | [26. Remove Duplicates from Sorted Array](/Remove%20Duplicates%20from%20Sorted%20Array/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/remove-duplicates-from-sorted-array | 68.42 | 32.7 |
 | [28. Find the Index of the First Occurrence in a String](/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description | 35.65 | 59.93 |
+| [29. Divide Two Integers](/Divide%20Two%20Integers/Solution.cs) <sup>medium<sup> | https://leetcode.com/problems/divide-two-integers/description/ | 87.20 | 18.45 |
 | [34. Find First and Last Position of Element in Sorted Array](/%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Solution.cs) <sup>meduim<sup> | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description | 64.79 | 19.95 |
 | [66. Plus One](/Plus%20One/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/plus-one/description | 76.84 | 72.62 |
 | [67. Add Binary](/Add%20Binary/Solution.cs) <sup>easy<sup> | https://leetcode.com/problems/add-binary/description | 57.49 | 55.99 |
