@@ -23,6 +23,7 @@
 |28. [Find the Index of the First Occurrence in a String](/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/Solution.cs) <sup>easy<sup> | 35.65 | 59.93 |
 |29. [Divide Two Integers](/Divide%20Two%20Integers/Solution.cs) <sup>medium<sup> | 87.20 | 18.45 |
 |34. [Find First and Last Position of Element in Sorted Array](/%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Solution.cs) <sup>meduim<sup> | 64.79 | 19.95 |
+|36. [Valid Sudoku](/Valid%20Sudoku/Solution.cs) <sup>meduim<sup> | 96.89 | 80.88 |
 |66. [Plus One](/Plus%20One/Solution.cs) <sup>easy<sup> | 76.84 | 72.62 |
 |67. [Add Binary](/Add%20Binary/Solution.cs) <sup>easy<sup> | 57.49 | 55.99 |
 |69. [Sqrt(x)](/Sqrt(x)/Solution.cs) <sup>easy<sup> | 81.47 | 36.86 |
