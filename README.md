@@ -31,6 +31,7 @@
 |71. [Simplify Path](/Simplify%20Path/Solution.cs) <sup>meduim<sup> | 75.51 | 29.9 |
 |88. [Merge Sorted Array](/Merge%20Sorted%20Array/Solution.cs) <sup>easy<sup> | 64.63 | 52.22 |
 |121. [Best Time to Buy and Sell Stock](/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cs) <sup>easy<sup> | 93.48 | 74.97 |
+|189. [Rotate Array](/Rotate%20Array/Solution.cs) <sup>medium<sup> | 53.41 | 50.77 |
 |258. [Add Digits](/Add%20Digits/Solution.cs) <sup>easy<sup> | 90.13 | 43.31 |
 |989. [Add to Array-Form of Integer](/Add%20to%20Array-Form%20of%20Integer/Solution.cs) <sup>easy<sup> | 15.41 | 87.26 |
 |1431. [Kids With the Greatest Number of Candies](/Kids%20With%20the%20Greatest%20Number%20of%20Candies/Solution.cs) <sup>easy<sup> | 33.1 | 67.31 |
