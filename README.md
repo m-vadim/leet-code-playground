@@ -37,6 +37,7 @@
 |347. [Top K Frequent Elements](/Top%20K%20Frequent%20Elements/Solution.cs) <sup>medium<sup> | 74.73 | 54.83 |
 |705. [Design HashSet](/Design%20HashSet/Solution.cs) <sup>easy<sup> | 41.45 | 31.58 |
 |989. [Add to Array-Form of Integer](/Add%20to%20Array-Form%20of%20Integer/Solution.cs) <sup>easy<sup> | 15.41 | 87.26 |
+|1396. [Design Underground System](/Design%20Underground%20System/Solution.cs) <sup>medium<sup> | 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Kids%20With%20the%20Greatest%20Number%20of%20Candies/Solution.cs) <sup>easy<sup> | 33.1 | 67.31 |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/Solution.cs) <sup>medium<sup> | 82.26 | 43.55.31 |
 |1470. [Shuffle the Array](/Shuffle%20the%20Array/Solution.cs) <sup>easy<sup> | 35.70 | 16.77 |
