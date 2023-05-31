@@ -59,22 +59,17 @@ internal class SolutionTests {
 	}
 
 	[TestCaseSource(nameof(Cases))]
-	public static int ReturnsMinimumRequiredCandiesGreedy(int[] children) {
+	public static int ReturnsMinimumRequiredCandies(int[] children) {
 		return new Solution().Candy(children);
 	}
-	
+
 	[TestCaseSource(nameof(Cases))]
 	public static int ReturnsMinimumRequiredCandiesUsingSequences(int[] children) {
 		return new SequencesSolution().Candy(children);
 	}
-	
+
 	[TestCaseSource(nameof(Cases))]
 	public static int ReturnsMinimumRequiredCandiesRecursiveSolution(int[] children) {
 		return new SolutionRecursive().Candy(children);
-	}
-	
-	[TestCaseSource(nameof(Cases))]
-	public static int ReturnsMinimumRequiredCandiesDoWhileNotRead(int[] children) {
-		return new SolutionDoWhileNotReady().Candy(children);
 	}
 }
