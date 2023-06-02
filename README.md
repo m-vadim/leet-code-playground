@@ -33,6 +33,7 @@
 |88. [Merge Sorted Array](/Merge%20Sorted%20Array/Solution.cs) <sup>easy<sup> | 64.63 | 52.22 |
 |121. [Best Time to Buy and Sell Stock](/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.cs) <sup>easy<sup> | 93.48 | 74.97 |
 |135. [Candy](/Candy/Solution.cs) <sup>hard</sup> <em>3 solutions</em> | 91.7 | 91.7 |
+|146. [LRU Cache](/LRU%20Cache/Solution.cs) <sup>medium<sup> | 38.56 | 80.39 |
 |189. [Rotate Array](/Rotate%20Array/Solution.cs) <sup>medium<sup> | 53.41 | 50.77 |
 |258. [Add Digits](/Add%20Digits/Solution.cs) <sup>easy<sup> | 90.13 | 43.31 |
 |347. [Top K Frequent Elements](/Top%20K%20Frequent%20Elements/Solution.cs) <sup>medium<sup> | 74.73 | 54.83 |
