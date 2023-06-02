@@ -40,7 +40,7 @@
 |989. [Add to Array-Form of Integer](/Add%20to%20Array-Form%20of%20Integer/Solution.cs) <sup>easy<sup> | 15.41 | 87.26 |
 |1396. [Design Underground System](/Design%20Underground%20System/Solution.cs) <sup>medium<sup> | 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Kids%20With%20the%20Greatest%20Number%20of%20Candies/Solution.cs) <sup>easy<sup> | 33.1 | 67.31 |
-|1456. [Maximum Number of Vowels in a Substring of Given Length](/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/Solution.cs) <sup>medium<sup> | 82.26 | 43.55.31 |
+|1456. [Maximum Number of Vowels in a Substring of Given Length](/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/Solution.cs) <sup>medium<sup> | 77.84 | 48.2 |
 |1470. [Shuffle the Array](/Shuffle%20the%20Array/Solution.cs) <sup>easy<sup> | 35.70 | 16.77 |
 |1491. [Average Salary Excluding the Minimum and Maximum Salary](/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary/Solution.cs) <sup>easy<sup> | 83.88 | 37.83 |
 |1523. [Count Odd Numbers in an Interval Range](/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/Solution.cs) <sup>easy<sup> | 95.98 | 22.86 |
