@@ -1,0 +1,462 @@
+[
+    {
+        "id": 1,
+        "name": "Two Sum",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 67.26,
+            "memory": 42.44
+        }
+    },
+    {
+        "id": 2,
+        "name": "Add Two Numbers",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 93.51,
+            "memory": 68.17
+        }
+    },
+    {
+        "id": 3,
+        "name": "Longest Substring Without Repeating Characters",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 39.18,
+            "memory": 58.86
+        }
+    },
+    {
+        "id": 4,
+        "name": "Median of Two Sorted Arrays",
+        "complexity": "Hard",
+        "performance":
+        {
+            "runtime": 93.30,
+            "memory": 69.77
+        }
+    },
+    {
+        "id": 5,
+        "name": "Longest Palindromic Substring",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 44.30,
+            "memory": 65.33
+        }
+    },
+    {
+        "id": 6,
+        "name": "Remove Duplicates from Sorted Array",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 68.42,
+            "memory": 32.7
+        }
+    },
+    {
+        "id": 7,
+        "name": "Reverse Integer",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 71.22,
+            "memory": 72.83
+        }
+    },
+    {
+        "id": 8,
+        "name": "String to Integer (atoi)",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 50.32,
+            "memory": 74.75
+        }
+    },
+    {
+        "id": 9,
+        "name": "Palindrome Number",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 47.54,
+            "memory": 95.65
+        }
+    },
+    {
+        "id": 11,
+        "name": "Container With Most Water",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 9.31,
+            "memory": 53.96
+        }
+    },
+    {
+        "id": 13,
+        "name": "Roman to Integer",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 96.24,
+            "memory": 71.49
+        }
+    },
+    {
+        "id": 14,
+        "name": "Longest Common Prefix",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 35.57,
+            "memory": 74.33
+        }
+    },
+    {
+        "id": 15,
+        "name": "3Sum",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 38.6,
+            "memory": 95.73
+        }
+    },
+    {
+        "id": 17,
+        "name": "Letter Combinations of a Phone Number",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 24.65,
+            "memory": 87.9
+        }
+    },
+    {
+        "id": 19,
+        "name": "Remove Nth Node From End of List",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 85.26,
+            "memory": 79.96
+        }
+    },
+    {
+        "id": 20,
+        "name": "Valid Parentheses",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 93.72,
+            "memory": 16.65
+        }
+    },
+    {
+        "id": 21,
+        "name": "Merge Two Sorted Lists",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 90.22,
+            "memory": 79.17
+        }
+    },
+    {
+        "id": 22,
+        "name": "Generate Parentheses",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 81.8,
+            "memory": 38.80
+        }
+    },
+    {
+        "id": 28,
+        "name": "Find the Index of the First Occurrence in a String",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 35.65,
+            "memory": 59.93
+        }
+    },
+    {
+        "id": 29,
+        "name": "Divide Two Integers",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 87.20,
+            "memory": 18.45
+        }
+    },
+    {
+        "id": 34,
+        "name": "Find First and Last Position of Element in Sorted Array",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 64.79,
+            "memory": 19.95
+        }
+    },
+    {
+        "id": 36,
+        "name": "Valid Sudoku",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 96.89,
+            "memory": 80.88
+        }
+    },
+    {
+        "id": 48,
+        "name": "Rotate Image",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 87.90,
+            "memory": 24.84
+        }
+    },
+    {
+        "id": 66,
+        "name": "Plus One",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 76.84,
+            "memory": 72.62
+        }
+    },
+    {
+        "id": 67,
+        "name": "Add Binary",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 57.49,
+            "memory": 55.99
+        }
+    },
+    {
+        "id": 69,
+        "name": "Sqrt(x)",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 81.47,
+            "memory": 36.86
+        }
+    },
+    {
+        "id": 70,
+        "name": "Climbing Stairs",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 82.33,
+            "memory": 11.25
+        }
+    },
+    {
+        "id": 71,
+        "name": "Simplify Path",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 75.51,
+            "memory": 29.9
+        }
+    },
+    {
+        "id": 88,
+        "name": "Merge Sorted Array",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 64.63,
+            "memory": 52.22
+        }
+    },
+    {
+        "id": 121,
+        "name": "Best Time to Buy and Sell Stock",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 93.48,
+            "memory": 74.97
+        }
+    },
+    {
+        "id": 135,
+        "name": "Candy",
+        "complexity": "Hard",
+        "performance":
+        {
+            "runtime": 91.7,
+            "memory": 91.7
+        }
+    },
+    {
+        "id": 146,
+        "name": "LRU Cache",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 38.56,
+            "memory": 80.39
+        }
+    },
+    {
+        "id": 189,
+        "name": "Rotate Array",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 53.41,
+            "memory": 50.77
+        }
+    },
+    {
+        "id": 258,
+        "name": "Add Digits",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 90.13,
+            "memory": 43.31
+        }
+    },
+    {
+        "id": 347,
+        "name": "Top K Frequent Elements",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 74.73,
+            "memory": 54.83
+        }
+    },
+    {
+        "id": 705,
+        "name": "Design HashSet",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 41.45,
+            "memory": 31.58
+        }
+    },
+    {
+        "id": 989,
+        "name": "Add to Array-Form of Integer",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 15.41,
+            "memory": 87.26
+        }
+    },
+    {
+        "id": 1396,
+        "name": "Design Underground System",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 100,
+            "memory": 19.44
+        }
+    },
+    {
+        "id": 1431,
+        "name": "Kids With the Greatest Number of Candies",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 33.1,
+            "memory": 67.31
+        }
+    },
+    {
+        "id": 1456,
+        "name": "Maximum Number of Vowels in a Substring of Given Length",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 77.84,
+            "memory": 48.2
+        }
+    },
+    {
+        "id": 1470,
+        "name": "Shuffle the Array",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 35.70,
+            "memory": 16.77
+        }
+    },
+    {
+        "id": 1491,
+        "name": "Average Salary Excluding the Minimum and Maximum Salary",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 83.88,
+            "memory": 37.83
+        }
+    },
+    {
+        "id": 1523,
+        "name": "Count Odd Numbers in an Interval Range",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 95.98,
+            "memory": 22.86
+        }
+    },
+    {
+        "id": 1822,
+        "name": "Sign of the Product of an Array",
+        "complexity": "Easy",
+        "performance":
+        {
+            "runtime": 38.78,
+            "memory": 26.62
+        }
+    },
+    {
+        "id": 2390,
+        "name": "Removing Stars From a String",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 81.13,
+            "memory": 69.81
+        }
+    },
+    {
+        "id": 2405,
+        "name": "Optimal Partition of String",
+        "complexity": "Medium",
+        "performance":
+        {
+            "runtime": 99.6,
+            "memory": 50.39
+        }
+    }
+]
