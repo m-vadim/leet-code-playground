@@ -35,6 +35,7 @@
 |135. [Candy](/Hard/Candy/Solution.cs) <sup>Hard<sup>| 91.7 | 91.7 |
 |146. [LRU Cache](/Medium/Lru_cache/Solution.cs) <sup>Medium<sup>| 38.56 | 80.39 |
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
+|238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
 |347. [Top K Frequent Elements](/Medium/Top_k_frequent_elements/Solution.cs) <sup>Medium<sup>| 74.73 | 54.83 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
