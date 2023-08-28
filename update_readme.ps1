@@ -9,6 +9,7 @@ function Start-Main {
 
     Add-Content -Path $readme -Value "`n|Problem|Runtime(%)|Memory(%)|"
     Add-Content -Path $readme -Value "`|--|--|--|"
+    $count = 0
     foreach($solution in $solutions | Sort-Object -Property "id") {
         $solution_path = ConvertToPath $solution.name $solution.complexity
         if (-not(Test-Path $solution_path)) {
@@ -17,6 +18,13 @@ function Start-Main {
 
         Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path)) <sup>$($solution.complexity)<sup>| $($solution.performance.runtime) | $($solution.performance.memory) |"
     }
+
+    Write-Host -Foreground "Green" "Results:"
+    Write-Host -Foreground "Green" "#$(($solutions | Where-Object -Property "complexity" -EQ 'Easy').Count) easy problems processed"
+    Write-Host -Foreground "Green" "#$(($solutions | Where-Object -Property "complexity" -EQ 'Medium').Count) medium problems processed"
+    Write-Host -Foreground "Green" "#$(($solutions | Where-Object -Property "complexity" -EQ 'Hard').Count) hard problems processed"
+    Write-Host -Foreground "Green" "______________________"
+    Write-Host -Foreground "Green" "#$($solutions.Count) total"
 }
 
 function ConvertToPath {
