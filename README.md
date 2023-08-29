@@ -50,3 +50,4 @@
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs) <sup>Easy<sup>| 38.78 | 26.62 |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs) <sup>Medium<sup>| 81.13 | 69.81 |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs) <sup>Medium<sup>| 99.6 | 50.39 |
+|2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs) <sup>Medium<sup>| 0 | 0 |

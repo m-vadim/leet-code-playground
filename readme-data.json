@@ -478,5 +478,15 @@
 			"runtime": 94.84,
 			"memory": 54.52
 		}
+	},
+	{
+		"id": 2483,
+		"name": "Minimum Penalty for a Shop",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 0,
+			"memory": 0
+		}
 	}
 ]
