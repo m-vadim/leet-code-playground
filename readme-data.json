@@ -485,8 +485,8 @@
 		"complexity": "Medium",
 		"performance":
 		{
-			"runtime": 0,
-			"memory": 0
+			"runtime": 100,
+			"memory": 77.78
 		}
 	}
 ]
