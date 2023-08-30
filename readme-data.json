@@ -488,5 +488,15 @@
 			"runtime": 100,
 			"memory": 77.78
 		}
+	},
+	{
+		"id": 53,
+		"name": "Maximum Subarray",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 98.24,
+			"memory": 94.87
+		}
 	}
 ]
