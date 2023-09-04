@@ -34,6 +34,7 @@
 |88. [Merge Sorted Array](/Easy/Merge_sorted_array/Solution.cs) <sup>Easy<sup>| 64.63 | 52.22 |
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs) <sup>Easy<sup>| 93.48 | 74.97 |
 |135. [Candy](/Hard/Candy/Solution.cs) <sup>Hard<sup>| 91.7 | 91.7 |
+|141. [Linked List Cycle](/Easy/Linked_list_cycle/Solution.cs) <sup>Easy<sup>| 87.84 | 68.78 |
 |146. [LRU Cache](/Medium/Lru_cache/Solution.cs) <sup>Medium<sup>| 38.56 | 80.39 |
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |

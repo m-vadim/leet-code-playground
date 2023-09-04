@@ -498,5 +498,15 @@
 			"runtime": 98.24,
 			"memory": 94.87
 		}
+	},
+	{
+		"id": 141,
+		"name": "Linked List Cycle",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 87.84,
+			"memory": 68.78
+		}
 	}
 ]
