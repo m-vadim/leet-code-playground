@@ -508,5 +508,16 @@
 			"runtime": 87.84,
 			"memory": 68.78
 		}
+	},
+	{
+		"id": 206,
+		"name": "Reverse Linked List",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 98.97,
+			"memory": 83.91
+		}
 	}
+
 ]
