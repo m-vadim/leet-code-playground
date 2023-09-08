@@ -32,6 +32,7 @@
 |70. [Climbing Stairs](/Easy/Climbing_stairs/Solution.cs) <sup>Easy<sup>| 82.33 | 11.25 |
 |71. [Simplify Path](/Medium/Simplify_path/Solution.cs) <sup>Medium<sup>| 75.51 | 29.9 |
 |88. [Merge Sorted Array](/Easy/Merge_sorted_array/Solution.cs) <sup>Easy<sup>| 64.63 | 52.22 |
+|118. [Pascals Triangle](/Easy/Pascals_triangle/Solution.cs) <sup>Easy<sup>| 99.67 | 43.97 |
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs) <sup>Easy<sup>| 93.48 | 74.97 |
 |135. [Candy](/Hard/Candy/Solution.cs) <sup>Hard<sup>| 91.7 | 91.7 |
 |141. [Linked List Cycle](/Easy/Linked_list_cycle/Solution.cs) <sup>Easy<sup>| 87.84 | 68.78 |

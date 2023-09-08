@@ -518,6 +518,16 @@
 			"runtime": 98.97,
 			"memory": 83.91
 		}
+	},
+	{
+		"id": 118,
+		"name": "Pascals Triangle",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 99.67,
+			"memory": 43.97
+		}
 	}
 
 ]
