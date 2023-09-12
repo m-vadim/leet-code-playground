@@ -7,6 +7,7 @@
 |3. [Longest Substring Without Repeating Characters](/Medium/Longest_substring_without_repeating_characters/Solution.cs) <sup>Medium<sup>| 39.18 | 58.86 |
 |4. [Median of Two Sorted Arrays](/Hard/Median_of_two_sorted_arrays/Solution.cs) <sup>Hard<sup>| 93.30 | 69.77 |
 |5. [Longest Palindromic Substring](/Medium/Longest_palindromic_substring/Solution.cs) <sup>Medium<sup>| 44.30 | 65.33 |
+|6. [Zigzag Conversion](/Medium/Zigzag_conversion/Solution.cs) <sup>Medium<sup>| 93.4 | 77.81 |
 |6. [Remove Duplicates from Sorted Array](/Easy/Remove_duplicates_from_sorted_array/Solution.cs) <sup>Easy<sup>| 68.42 | 32.7 |
 |7. [Reverse Integer](/Medium/Reverse_integer/Solution.cs) <sup>Medium<sup>| 71.22 | 72.83 |
 |8. [String to Integer (atoi)](/Medium/String_to_integer_(atoi)/Solution.cs) <sup>Medium<sup>| 50.32 | 74.75 |

@@ -528,6 +528,15 @@
 			"runtime": 99.67,
 			"memory": 43.97
 		}
+	},
+	{
+		"id": 6,
+		"name": "Zigzag Conversion",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 93.4,
+			"memory": 77.81
+		}
 	}
-
 ]
