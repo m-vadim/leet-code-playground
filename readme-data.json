@@ -538,5 +538,15 @@
 			"runtime": 93.4,
 			"memory": 77.81
 		}
+	},
+	{
+		"id": 1647,
+		"name": "Minimum Deletions to Make Character Frequencies Unique",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 71.1,
+			"memory": 53.62
+		}
 	}
 ]
