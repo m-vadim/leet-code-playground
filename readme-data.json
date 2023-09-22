@@ -548,5 +548,15 @@
 			"runtime": 71.1,
 			"memory": 53.62
 		}
+	},
+	{
+		"id": 392,
+		"name": "Is Subsequence",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 89,
+			"memory": 76.17
+		}
 	}
 ]
