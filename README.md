@@ -46,6 +46,7 @@
 |347. [Top K Frequent Elements](/Medium/Top_k_frequent_elements/Solution.cs) <sup>Medium<sup>| 74.73 | 54.83 |
 |392. [Is Subsequence](/Easy/Is_subsequence/Solution.cs) <sup>Easy<sup>| 89 | 76.17 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
+|792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs) <sup>Medium<sup>| 91.3 | 26.9 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs) <sup>Medium<sup>| 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs) <sup>Easy<sup>| 33.1 | 67.31 |

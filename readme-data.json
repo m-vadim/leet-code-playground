@@ -558,5 +558,15 @@
 			"runtime": 89,
 			"memory": 76.17
 		}
+	},
+	{
+		"id": 792,
+		"name": "Number of Matching Subsequences",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 91.3,
+			"memory": 26.9
+		}
 	}
 ]
