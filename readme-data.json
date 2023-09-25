@@ -568,5 +568,15 @@
 			"runtime": 91.3,
 			"memory": 26.9
 		}
+	},
+	{
+		"id": 389,
+		"name": "Find the Difference",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 83.11,
+			"memory": 95.31
+		}
 	}
 ]
