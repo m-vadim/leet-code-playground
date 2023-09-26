@@ -44,6 +44,7 @@
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |
 |238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
+|316. [Remove Duplicate Letters](/Medium/Remove_duplicate_letters/Solution.cs) <sup>Medium<sup>| 74.36 | 60.26 |
 |347. [Top K Frequent Elements](/Medium/Top_k_frequent_elements/Solution.cs) <sup>Medium<sup>| 74.73 | 54.83 |
 |389. [Find the Difference](/Easy/Find_the_difference/Solution.cs) <sup>Easy<sup>| 83.11 | 95.31 |
 |392. [Is Subsequence](/Easy/Is_subsequence/Solution.cs) <sup>Easy<sup>| 89 | 76.17 |

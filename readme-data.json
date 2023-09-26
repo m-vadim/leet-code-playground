@@ -588,5 +588,15 @@
 			"runtime": 90.79,
 			"memory": 71.85
 		}
+	},
+	{
+		"id": 316,
+		"name": "Remove Duplicate Letters",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 74.36,
+			"memory": 60.26
+		}
 	}
 ]
