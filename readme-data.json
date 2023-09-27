@@ -608,5 +608,15 @@
 			"runtime": 77.78,
 			"memory": 83.3
 		}
+	},
+	{
+		"id": 443,
+		"name": "String Compression",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 40.88,
+			"memory": 79.48
+		}
 	}
 ]
