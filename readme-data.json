@@ -618,5 +618,15 @@
 			"runtime": 40.88,
 			"memory": 79.48
 		}
+	},
+	{
+		"id": 905,
+		"name": "Sort Array By Parity",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 91.68,
+			"memory": 83.29
+		}
 	}
 ]
