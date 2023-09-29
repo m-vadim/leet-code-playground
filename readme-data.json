@@ -628,5 +628,15 @@
 			"runtime": 91.68,
 			"memory": 83.29
 		}
+	},
+	{
+		"id": 334,
+		"name": "Increasing Triplet Subsequence",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 70.61,
+			"memory": 85.16
+		}
 	}
 ]
