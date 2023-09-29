@@ -638,5 +638,15 @@
 			"runtime": 70.61,
 			"memory": 85.16
 		}
+	},
+	{
+		"id": 345,
+		"name": "Reverse Vowels of a String",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 85.11,
+			"memory": 96.7
+		}
 	}
 ]
