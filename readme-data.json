@@ -648,5 +648,15 @@
 			"runtime": 85.11,
 			"memory": 96.7
 		}
+	},
+	{
+		"id": 1679,
+		"name": "Max Number of K-Sum Pairs",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 76.55,
+			"memory": 34.88
+		}
 	}
 ]

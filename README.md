@@ -63,6 +63,7 @@
 |1491. [Average Salary Excluding the Minimum and Maximum Salary](/Easy/Average_salary_excluding_the_minimum_and_maximum_salary/Solution.cs) <sup>Easy<sup>| 83.88 | 37.83 |
 |1523. [Count Odd Numbers in an Interval Range](/Easy/Count_odd_numbers_in_an_interval_range/Solution.cs) <sup>Easy<sup>| 95.98 | 22.86 |
 |1647. [Minimum Deletions to Make Character Frequencies Unique](/Medium/Minimum_deletions_to_make_character_frequencies_unique/Solution.cs) <sup>Medium<sup>| 71.1 | 53.62 |
+|1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs) <sup>Medium<sup>| 76.55 | 34.88 |
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs) <sup>Easy<sup>| 38.78 | 26.62 |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs) <sup>Medium<sup>| 81.13 | 69.81 |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs) <sup>Medium<sup>| 99.6 | 50.39 |
