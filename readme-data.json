@@ -658,5 +658,15 @@
 			"runtime": 76.55,
 			"memory": 34.88
 		}
+	},
+	{
+		"id": 229,
+		"name": "Majority Element 2",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 98.72,
+			"memory": 52.56
+		}
 	}
 ]

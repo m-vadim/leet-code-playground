@@ -42,6 +42,7 @@
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
 |206. [Reverse Linked List](/Easy/Reverse_linked_list/Solution.cs) <sup>Easy<sup>| 98.97 | 83.91 |
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |
+|229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs) <sup>Medium<sup>| 98.72 | 52.56 |
 |238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
 |316. [Remove Duplicate Letters](/Medium/Remove_duplicate_letters/Solution.cs) <sup>Medium<sup>| 74.36 | 60.26 |
