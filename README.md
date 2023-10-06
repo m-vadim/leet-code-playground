@@ -55,6 +55,7 @@
 |389. [Find the Difference](/Easy/Find_the_difference/Solution.cs) <sup>Easy<sup>| 83.11 | 95.31 |
 |392. [Is Subsequence](/Easy/Is_subsequence/Solution.cs) <sup>Easy<sup>| 89 | 76.17 |
 |443. [String Compression](/Medium/String_compression/Solution.cs) <sup>Medium<sup>| 40.88 | 79.48 |
+|643. [Maximum Average Subarray 1](/Easy/Maximum_average_subarray_1/Solution.cs) <sup>Easy<sup>| 55.7 | 78.38 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs) <sup>Medium<sup>| 91.3 | 26.9 |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs) <sup>Medium<sup>| 77.78 | 83.3 |

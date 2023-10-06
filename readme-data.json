@@ -698,5 +698,15 @@
 			"runtime": 82.5,
 			"memory": 74.8
 		}
+	},
+	{
+		"id": 643,
+		"name": "Maximum Average Subarray 1",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 55.7,
+			"memory": 78.38
+		}
 	}
 ]
