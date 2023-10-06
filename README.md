@@ -38,6 +38,7 @@
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs) <sup>Easy<sup>| 93.48 | 74.97 |
 |135. [Candy](/Hard/Candy/Solution.cs) <sup>Hard<sup>| 91.7 | 91.7 |
 |141. [Linked List Cycle](/Easy/Linked_list_cycle/Solution.cs) <sup>Easy<sup>| 87.84 | 68.78 |
+|143. [Reorder List](/Medium/Reorder_list/Solution.cs) <sup>Medium<sup>| 91.77 | 95.15 |
 |146. [LRU Cache](/Medium/Lru_cache/Solution.cs) <sup>Medium<sup>| 38.56 | 80.39 |
 |151. [Reverse Words in a String](/Medium/Reverse_words_in_a_string/Solution.cs) <sup>Medium<sup>| 90.79 | 71.85 |
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
