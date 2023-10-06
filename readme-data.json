@@ -688,5 +688,15 @@
 			"runtime": 91.77,
 			"memory": 95.15
 		}
+	},
+	{
+		"id": 125,
+		"name": "Valid Palindrome",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 82.5,
+			"memory": 74.8
+		}
 	}
 ]
