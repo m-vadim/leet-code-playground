@@ -718,5 +718,15 @@
 			"runtime": 97.95,
 			"memory": 38.31
 		}
+	},
+	{
+		"id": 1657,
+		"name": "Determine if Two Strings Are Close",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 84.3,
+			"memory": 78.99
+		}
 	}
 ]
