@@ -57,6 +57,7 @@
 |443. [String Compression](/Medium/String_compression/Solution.cs) <sup>Medium<sup>| 40.88 | 79.48 |
 |643. [Maximum Average Subarray 1](/Easy/Maximum_average_subarray_1/Solution.cs) <sup>Easy<sup>| 55.7 | 78.38 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
+|724. [Find Pivot Index](/Easy/Find_pivot_index/Solution.cs) <sup>Easy<sup>| 97.95 | 38.31 |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs) <sup>Medium<sup>| 91.3 | 26.9 |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs) <sup>Medium<sup>| 77.78 | 83.3 |
 |905. [Sort Array By Parity](/Easy/Sort_array_by_parity/Solution.cs) <sup>Easy<sup>| 91.68 | 83.29 |

@@ -708,5 +708,15 @@
 			"runtime": 55.7,
 			"memory": 78.38
 		}
+	},
+	{
+		"id": 724,
+		"name": "Find Pivot Index",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 97.95,
+			"memory": 38.31
+		}
 	}
 ]
