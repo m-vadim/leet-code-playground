@@ -728,5 +728,15 @@
 			"runtime": 84.3,
 			"memory": 78.99
 		}
+	},
+	{
+		"id": 2352,
+		"name": "Equal Row and Column Pairs",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 98.57,
+			"memory": 57.43
+		}
 	}
 ]
