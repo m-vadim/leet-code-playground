@@ -738,5 +738,15 @@
 			"runtime": 98.57,
 			"memory": 57.43
 		}
+	},
+	{
+		"id": 735,
+		"name": "Asteroid Collision",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 83.33,
+			"memory": 62.91
+		}
 	}
 ]
