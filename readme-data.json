@@ -748,5 +748,15 @@
 			"runtime": 83.33,
 			"memory": 62.91
 		}
+	},
+	{
+		"id": 1095,
+		"name": "Find in Mountain Array",
+		"complexity": "Hard",
+		"performance":
+		{
+			"runtime": 41.18,
+			"memory": 100
+		}
 	}
 ]
