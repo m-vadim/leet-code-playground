@@ -59,6 +59,7 @@
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
 |724. [Find Pivot Index](/Easy/Find_pivot_index/Solution.cs) <sup>Easy<sup>| 97.95 | 38.31 |
 |735. [Asteroid Collision](/Medium/Asteroid_collision/Solution.cs) <sup>Medium<sup>| 83.33 | 62.91 |
+|746. [Min Cost Climbing Stairs](/Easy/Min_cost_climbing_stairs/Solution.cs) <sup>Easy<sup>| 73.65 | 67.81 |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs) <sup>Medium<sup>| 91.3 | 26.9 |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs) <sup>Medium<sup>| 77.78 | 83.3 |
 |905. [Sort Array By Parity](/Easy/Sort_array_by_parity/Solution.cs) <sup>Easy<sup>| 91.68 | 83.29 |

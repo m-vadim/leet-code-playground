@@ -758,5 +758,15 @@
 			"runtime": 41.18,
 			"memory": 100
 		}
+	},
+	{
+		"id": 746,
+		"name": "Min Cost Climbing Stairs",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 73.65,
+			"memory": 67.81
+		}
 	}
 ]
