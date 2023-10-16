@@ -768,5 +768,15 @@
 			"runtime": 73.65,
 			"memory": 67.81
 		}
+	},
+	{
+		"id": 394,
+		"name": "Decode string",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 40.85,
+			"memory": 42.98
+		}
 	}
 ]

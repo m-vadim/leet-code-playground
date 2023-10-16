@@ -54,6 +54,7 @@
 |347. [Top K Frequent Elements](/Medium/Top_k_frequent_elements/Solution.cs) <sup>Medium<sup>| 74.73 | 54.83 |
 |389. [Find the Difference](/Easy/Find_the_difference/Solution.cs) <sup>Easy<sup>| 83.11 | 95.31 |
 |392. [Is Subsequence](/Easy/Is_subsequence/Solution.cs) <sup>Easy<sup>| 89 | 76.17 |
+|394. [Decode string](/Medium/Decode_string/Solution.cs) <sup>Medium<sup>| 40.85 | 42.98 |
 |443. [String Compression](/Medium/String_compression/Solution.cs) <sup>Medium<sup>| 40.88 | 79.48 |
 |643. [Maximum Average Subarray 1](/Easy/Maximum_average_subarray_1/Solution.cs) <sup>Easy<sup>| 55.7 | 78.38 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
