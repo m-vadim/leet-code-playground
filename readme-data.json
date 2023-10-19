@@ -778,5 +778,15 @@
 			"runtime": 40.85,
 			"memory": 42.98
 		}
+	},
+	{
+		"id": 844,
+		"name": "Backspace String Compare",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 87.54,
+			"memory": 93.31
+		}
 	}
 ]
