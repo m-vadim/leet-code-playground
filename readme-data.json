@@ -808,5 +808,15 @@
 			"runtime": 91.77,
 			"memory": 97.10			
 		}
+	},
+	{
+		"id": 901,
+		"name": "Online Stock Span",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 56.48,
+			"memory": 97.22			
+		}
 	}
 ]
