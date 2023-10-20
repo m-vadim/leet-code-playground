@@ -50,6 +50,7 @@
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
 |316. [Remove Duplicate Letters](/Medium/Remove_duplicate_letters/Solution.cs) <sup>Medium<sup>| 74.36 | 60.26 |
 |334. [Increasing Triplet Subsequence](/Medium/Increasing_triplet_subsequence/Solution.cs) <sup>Medium<sup>| 70.61 | 85.16 |
+|341. [Flatten Nested List Iterator](/Medium/Flatten_nested_list_iterator/Solution.cs) <sup>Medium<sup>| 96.83 | 65.08 |
 |345. [Reverse Vowels of a String](/Easy/Reverse_vowels_of_a_string/Solution.cs) <sup>Easy<sup>| 85.11 | 96.7 |
 |347. [Top K Frequent Elements](/Medium/Top_k_frequent_elements/Solution.cs) <sup>Medium<sup>| 74.73 | 54.83 |
 |389. [Find the Difference](/Easy/Find_the_difference/Solution.cs) <sup>Easy<sup>| 83.11 | 95.31 |

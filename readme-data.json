@@ -788,5 +788,15 @@
 			"runtime": 87.54,
 			"memory": 93.31
 		}
+	},
+	{
+		"id": 341,
+		"name": "Flatten Nested List Iterator",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 96.83,
+			"memory": 65.08			
+		}
 	}
 ]
