@@ -798,5 +798,15 @@
 			"runtime": 96.83,
 			"memory": 65.08			
 		}
+	},
+	{
+		"id": 739,
+		"name": "Daily Temperatures",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 91.77,
+			"memory": 97.10			
+		}
 	}
 ]
