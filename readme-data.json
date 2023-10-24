@@ -828,5 +828,15 @@
 			"runtime": 99.65,
 			"memory": 92.98		
 		}
+	},
+	{
+		"id": 2095,
+		"name": "Delete the Middle Node of a Linked List",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 98.61,
+			"memory": 38.05		
+		}
 	}
 ]
