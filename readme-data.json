@@ -818,5 +818,15 @@
 			"runtime": 56.48,
 			"memory": 97.22			
 		}
+	},
+	{
+		"id": 649,
+		"name": "Dota2 Senate",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 99.65,
+			"memory": 92.98		
+		}
 	}
 ]

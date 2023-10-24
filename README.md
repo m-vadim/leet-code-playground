@@ -58,6 +58,7 @@
 |394. [Decode string](/Medium/Decode_string/Solution.cs) <sup>Medium<sup>| 40.85 | 42.98 |
 |443. [String Compression](/Medium/String_compression/Solution.cs) <sup>Medium<sup>| 40.88 | 79.48 |
 |643. [Maximum Average Subarray 1](/Easy/Maximum_average_subarray_1/Solution.cs) <sup>Easy<sup>| 55.7 | 78.38 |
+|649. [Dota2 Senate](/Medium/Dota2_senate/Solution.cs) <sup>Medium<sup>| 99.65 | 92.98 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
 |724. [Find Pivot Index](/Easy/Find_pivot_index/Solution.cs) <sup>Easy<sup>| 97.95 | 38.31 |
 |735. [Asteroid Collision](/Medium/Asteroid_collision/Solution.cs) <sup>Medium<sup>| 83.33 | 62.91 |
