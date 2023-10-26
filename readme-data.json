@@ -838,5 +838,15 @@
 			"runtime": 98.61,
 			"memory": 38.05		
 		}
+	},
+	{
+		"id": 328,
+		"name": "Odd Even Linked List",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 86.71,
+			"memory": 46.4		
+		}
 	}
 ]
