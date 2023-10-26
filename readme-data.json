@@ -848,5 +848,15 @@
 			"runtime": 86.71,
 			"memory": 46.4		
 		}
+	},
+	{
+		"id": 2130,
+		"name": "Maximum Twin Sum of a Linked List",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 83.19,
+			"memory": 49.2		
+		}
 	}
 ]

@@ -83,6 +83,7 @@
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs) <sup>Medium<sup>| 76.55 | 34.88 |
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs) <sup>Easy<sup>| 38.78 | 26.62 |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs) <sup>Medium<sup>| 98.61 | 38.05 |
+|2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs) <sup>Medium<sup>| 83.19 | 49.2 |
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs) <sup>Medium<sup>| 98.57 | 57.43 |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs) <sup>Medium<sup>| 81.13 | 69.81 |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs) <sup>Medium<sup>| 99.6 | 50.39 |
