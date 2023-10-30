@@ -868,5 +868,15 @@
 			"runtime": 81.94,
 			"memory": 24.84	
 		}
+	},
+	{
+		"id": 208,
+		"name": "Implement Trie",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 67.72,
+			"memory": 94.42
+		}
 	}
 ]
