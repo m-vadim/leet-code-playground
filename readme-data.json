@@ -858,5 +858,15 @@
 			"runtime": 83.19,
 			"memory": 49.2		
 		}
+	},
+	{
+		"id": 155,
+		"name": "Min Stack",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 81.94,
+			"memory": 24.84	
+		}
 	}
 ]
