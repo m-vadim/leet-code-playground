@@ -878,5 +878,15 @@
 			"runtime": 67.72,
 			"memory": 94.42
 		}
+	},
+	{
+		"id": 211,
+		"name": "Design Add and Search Words Data Structure",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 90.66,
+			"memory": 74.45
+		}
 	}
 ]

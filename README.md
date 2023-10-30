@@ -46,6 +46,7 @@
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
 |206. [Reverse Linked List](/Easy/Reverse_linked_list/Solution.cs) <sup>Easy<sup>| 98.97 | 83.91 |
 |208. [Implement Trie](/Medium/Implement_trie/Solution.cs) <sup>Medium<sup>| 67.72 | 94.42 |
+|211. [Design Add and Search Words Data Structure](/Medium/Design_add_and_search_words_data_structure/Solution.cs) <sup>Medium<sup>| 90.66 | 74.45 |
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |
 |229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs) <sup>Medium<sup>| 98.72 | 52.56 |
 |238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
