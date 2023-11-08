@@ -888,5 +888,15 @@
 			"runtime": 90.66,
 			"memory": 74.45
 		}
+	},
+	{
+		"id": 2849,
+		"name": "Determine if a Cell Is Reachable at a Given Time",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 92.38,
+			"memory": 91.43
+		}
 	}
 ]
