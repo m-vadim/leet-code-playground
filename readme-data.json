@@ -918,6 +918,16 @@
 			"runtime": 78.92,
 			"memory": 43.87
 		}
+	},
+	{
+		"id": 41,
+		"name": "First Missing Positive",
+		"complexity": "Hard",
+		"performance":
+		{
+			"runtime": 59.81,
+			"memory": 65.83
+		}
 	}
 		
 ]
