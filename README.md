@@ -34,6 +34,7 @@
 |71. [Simplify Path](/Medium/Simplify_path/Solution.cs) <sup>Medium<sup>| 75.51 | 29.9 |
 |88. [Merge Sorted Array](/Easy/Merge_sorted_array/Solution.cs) <sup>Easy<sup>| 64.63 | 52.22 |
 |92. [Reverse Linked List 2](/Medium/Reverse_linked_list_2/Solution.cs) <sup>Medium<sup>| 95.25 | 81.51 |
+|104. [Maximum Depth of Binary Tree](/Easy/Maximum_depth_of_binary_tree/Solution.cs) <sup>Easy<sup>| 69.76 | 76.20 |
 |118. [Pascals Triangle](/Easy/Pascals_triangle/Solution.cs) <sup>Easy<sup>| 99.67 | 43.97 |
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs) <sup>Easy<sup>| 93.48 | 74.97 |
 |125. [Valid Palindrome](/Easy/Valid_palindrome/Solution.cs) <sup>Easy<sup>| 82.5 | 74.8 |

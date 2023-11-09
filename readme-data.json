@@ -898,5 +898,16 @@
 			"runtime": 92.38,
 			"memory": 91.43
 		}
+	},
+	{
+		"id": 104,
+		"name": "Maximum Depth of Binary Tree",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 69.76,
+			"memory": 76.20
+		}
 	}
+		
 ]
