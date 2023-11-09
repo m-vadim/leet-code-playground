@@ -908,6 +908,16 @@
 			"runtime": 69.76,
 			"memory": 76.20
 		}
+	},
+	{
+		"id": 38,
+		"name": "Count and Say",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 78.92,
+			"memory": 43.87
+		}
 	}
 		
 ]
