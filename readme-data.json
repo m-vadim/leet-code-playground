@@ -928,6 +928,16 @@
 			"runtime": 59.81,
 			"memory": 65.83
 		}
+	},
+	{
+		"id": 1743,
+		"name": "Restore the Array From Adjacent Pairs",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 100,
+			"memory": 50
+		}
 	}
 		
 ]
