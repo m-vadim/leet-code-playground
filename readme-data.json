@@ -938,6 +938,15 @@
 			"runtime": 100,
 			"memory": 50
 		}
+	},
+	{
+		"id": 2785,
+		"name": "Sort Vowels in a String",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 94,
+			"memory": 98
+		}
 	}
-		
 ]
