@@ -948,5 +948,15 @@
 			"runtime": 94,
 			"memory": 98
 		}
+	},
+	{
+		"id": 46,
+		"name": "Permutations",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 76,
+			"memory": 15.8
+		}
 	}
 ]
