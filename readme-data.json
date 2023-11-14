@@ -958,5 +958,15 @@
 			"runtime": 76,
 			"memory": 15.8
 		}
+	},
+	{
+		"id": 1930,
+		"name": "Unique Length-3 Palindromic Subsequences",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 100,
+			"memory": 100
+		}
 	}
 ]
