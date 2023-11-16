@@ -978,5 +978,15 @@
 			"runtime": 72,
 			"memory": 68
 		}
+	},
+	{
+		"id": 1268,
+		"name": "Search Suggestions System",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 50,
+			"memory": 34.95
+		}
 	}
 ]

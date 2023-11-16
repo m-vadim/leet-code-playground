@@ -79,6 +79,7 @@
 |905. [Sort Array By Parity](/Easy/Sort_array_by_parity/Solution.cs) <sup>Easy<sup>| 91.68 | 83.29 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
 |1095. [Find in Mountain Array](/Hard/Find_in_mountain_array/Solution.cs) <sup>Hard<sup>| 41.18 | 100 |
+|1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs) <sup>Medium<sup>| 50 | 34.95 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs) <sup>Medium<sup>| 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs) <sup>Easy<sup>| 33.1 | 67.31 |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Medium/Maximum_number_of_vowels_in_a_substring_of_given_length/Solution.cs) <sup>Medium<sup>| 77.84 | 48.2 |
