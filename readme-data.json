@@ -968,5 +968,15 @@
 			"runtime": 100,
 			"memory": 100
 		}
+	},
+	{
+		"id": 1980,
+		"name": "Find Unique Binary String",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 72,
+			"memory": 68
+		}
 	}
 ]
