@@ -988,5 +988,15 @@
 			"runtime": 50,
 			"memory": 34.95
 		}
+	},
+	{
+		"id": 1662,
+		"name": "Check If Two String Arrays are Equivalent",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 89.50,
+			"memory": 90.87
+		}
 	}
 ]
