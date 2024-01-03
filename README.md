@@ -96,6 +96,7 @@
 |1930. [Unique Length-3 Palindromic Subsequences](/Medium/Unique_length-3_palindromic_subsequences/Solution.cs) <sup>Medium<sup>| 100 | 100 |
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs) <sup>Medium<sup>| 72 | 68 |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs) <sup>Medium<sup>| 98.61 | 38.05 |
+|2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs) <sup>Medium<sup>| 47.6 | 98.4 |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs) <sup>Medium<sup>| 83.19 | 49.2 |
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs) <sup>Medium<sup>| 98.57 | 57.43 |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs) <sup>Medium<sup>| 81.13 | 69.81 |

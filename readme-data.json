@@ -1008,5 +1008,15 @@
 			"runtime": 96.26,
 			"memory": 87.85
 		}
+	},
+	{
+		"id": 2125,
+		"name": "Number of Laser Beams in a Bank",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 47.6,
+			"memory": 98.4
+		}
 	}
 ]
