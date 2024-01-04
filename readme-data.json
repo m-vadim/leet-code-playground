@@ -1018,5 +1018,15 @@
 			"runtime": 47.6,
 			"memory": 98.4
 		}
+	},
+	{
+		"id": 2870,
+		"name": "Minimum Number of Operations to Make Array Empty",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 36.36,
+			"memory": 27.27
+		}
 	}
 ]
