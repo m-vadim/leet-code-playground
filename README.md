@@ -55,6 +55,7 @@
 |229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs) <sup>Medium<sup>| 98.72 | 52.56 |
 |238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
+|300. [Longest Increasing Subsequence](/Medium/Longest_increasing_subsequence/Solution.cs) <sup>Medium<sup>| 78.29 | 17.44 |
 |316. [Remove Duplicate Letters](/Medium/Remove_duplicate_letters/Solution.cs) <sup>Medium<sup>| 74.36 | 60.26 |
 |328. [Odd Even Linked List](/Medium/Odd_even_linked_list/Solution.cs) <sup>Medium<sup>| 86.71 | 46.4 |
 |334. [Increasing Triplet Subsequence](/Medium/Increasing_triplet_subsequence/Solution.cs) <sup>Medium<sup>| 70.61 | 85.16 |

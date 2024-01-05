@@ -1028,5 +1028,15 @@
 			"runtime": 36.36,
 			"memory": 27.27
 		}
+	},
+	{
+		"id": 300,
+		"name": "Longest Increasing Subsequence",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 78.29,
+			"memory": 17.44
+		}
 	}
 ]
