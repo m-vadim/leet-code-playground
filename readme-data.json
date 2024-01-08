@@ -1038,5 +1038,15 @@
 			"runtime": 78.29,
 			"memory": 17.44
 		}
+	},
+	{
+		"id": 938,
+		"name": "Range Sum of BST",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 28.39,
+			"memory": 21.35
+		}
 	}
 ]
