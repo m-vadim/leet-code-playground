@@ -1048,5 +1048,15 @@
 			"runtime": 28.39,
 			"memory": 21.35
 		}
+	},
+	{
+		"id": 1026,
+		"name": "Maximum Difference Between Node and Ancestor",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 85.05,
+			"memory": 54.21
+		}
 	}
 ]
