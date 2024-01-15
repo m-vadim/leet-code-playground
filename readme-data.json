@@ -1058,5 +1058,15 @@
 			"runtime": 85.05,
 			"memory": 54.21
 		}
+	},
+	{
+		"id": 2225,
+		"name": "Find Players With Zero or One Losses",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 53.01,
+			"memory": 15.66
+		}
 	}
 ]
