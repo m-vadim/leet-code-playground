@@ -1068,5 +1068,15 @@
 			"runtime": 53.01,
 			"memory": 15.66
 		}
+	},
+	{
+		"id": 1457,
+		"name": "Pseudo-Palindromic Paths in a Binary Tree",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 50.00,
+			"memory": 62.50
+		}
 	}
 ]

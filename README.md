@@ -87,6 +87,7 @@
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs) <sup>Easy<sup>| 33.1 | 67.31 |
 |1436. [Destination City](/Easy/Destination_city/Solution.cs) <sup>Easy<sup>| 96.26 | 87.85 |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Medium/Maximum_number_of_vowels_in_a_substring_of_given_length/Solution.cs) <sup>Medium<sup>| 77.84 | 48.2 |
+|1457. [Pseudo-Palindromic Paths in a Binary Tree](/Medium/Pseudo-palindromic_paths_in_a_binary_tree/Solution.cs) <sup>Medium<sup>| 50.00 | 62.50 |
 |1470. [Shuffle the Array](/Easy/Shuffle_the_array/Solution.cs) <sup>Easy<sup>| 35.70 | 16.77 |
 |1491. [Average Salary Excluding the Minimum and Maximum Salary](/Easy/Average_salary_excluding_the_minimum_and_maximum_salary/Solution.cs) <sup>Easy<sup>| 83.88 | 37.83 |
 |1523. [Count Odd Numbers in an Interval Range](/Easy/Count_odd_numbers_in_an_interval_range/Solution.cs) <sup>Easy<sup>| 95.98 | 22.86 |
