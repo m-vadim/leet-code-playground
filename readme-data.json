@@ -1078,5 +1078,15 @@
 			"runtime": 50.00,
 			"memory": 62.50
 		}
+	},
+	{
+		"id": 1143,
+		"name": "Longest Common Subsequence",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 28.82,
+			"memory": 47.00
+		}
 	}
 ]
