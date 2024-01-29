@@ -53,6 +53,7 @@
 |211. [Design Add and Search Words Data Structure](/Medium/Design_add_and_search_words_data_structure/Solution.cs) <sup>Medium<sup>| 90.66 | 74.45 |
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |
 |229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs) <sup>Medium<sup>| 98.72 | 52.56 |
+|232. [Implement Queue using Stacks](/Easy/Implement_queue_using_stacks/Solution.cs) <sup>Easy<sup>| 66.73 | 13.38 |
 |238. [Product of Array Except Self](/Medium/Product_of_array_except_self/Solution.cs) <sup>Medium<sup>| 74.67 | 43.96 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
 |300. [Longest Increasing Subsequence](/Medium/Longest_increasing_subsequence/Solution.cs) <sup>Medium<sup>| 78.29 | 17.44 |

@@ -1088,5 +1088,15 @@
 			"runtime": 28.82,
 			"memory": 47.00
 		}
+	},
+	{
+		"id": 232,
+		"name": "Implement Queue using Stacks",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 66.73,
+			"memory": 13.38
+		}
 	}
 ]
