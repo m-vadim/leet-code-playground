@@ -1098,5 +1098,15 @@
 			"runtime": 66.73,
 			"memory": 13.38
 		}
+	},
+	{
+		"id": 150,
+		"name": "Evaluate Reverse Polish Notation",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 89.19,
+			"memory": 38.16
+		}
 	}
 ]

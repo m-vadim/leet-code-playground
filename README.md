@@ -45,6 +45,7 @@
 |141. [Linked List Cycle](/Easy/Linked_list_cycle/Solution.cs) <sup>Easy<sup>| 87.84 | 68.78 |
 |143. [Reorder List](/Medium/Reorder_list/Solution.cs) <sup>Medium<sup>| 91.77 | 95.15 |
 |146. [LRU Cache](/Medium/Lru_cache/Solution.cs) <sup>Medium<sup>| 38.56 | 80.39 |
+|150. [Evaluate Reverse Polish Notation](/Medium/Evaluate_reverse_polish_notation/Solution.cs) <sup>Medium<sup>| 89.19 | 38.16 |
 |151. [Reverse Words in a String](/Medium/Reverse_words_in_a_string/Solution.cs) <sup>Medium<sup>| 90.79 | 71.85 |
 |155. [Min Stack](/Medium/Min_stack/Solution.cs) <sup>Medium<sup>| 81.94 | 24.84 |
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs) <sup>Medium<sup>| 53.41 | 50.77 |
