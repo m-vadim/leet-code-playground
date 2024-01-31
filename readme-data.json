@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"id": 27,
+		"name": "Remove Element",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 79.75,
+			"memory": 54.59
+		}
+	},
+	{
 		"id": 2,
 		"name": "Add Two Numbers",
 		"complexity": "Medium",

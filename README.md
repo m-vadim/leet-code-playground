@@ -21,6 +21,7 @@
 |20. [Valid Parentheses](/Easy/Valid_parentheses/Solution.cs) <sup>Easy<sup>| 93.72 | 16.65 |
 |21. [Merge Two Sorted Lists](/Easy/Merge_two_sorted_lists/Solution.cs) <sup>Easy<sup>| 90.22 | 79.17 |
 |22. [Generate Parentheses](/Medium/Generate_parentheses/Solution.cs) <sup>Medium<sup>| 81.8 | 38.80 |
+|27. [Remove Element](/Easy/Remove_element/Solution.cs) <sup>Easy<sup>| 79.75 | 54.59 |
 |28. [Find the Index of the First Occurrence in a String](/Easy/Find_the_index_of_the_first_occurrence_in_a_string/Solution.cs) <sup>Easy<sup>| 35.65 | 59.93 |
 |29. [Divide Two Integers](/Medium/Divide_two_integers/Solution.cs) <sup>Medium<sup>| 87.20 | 18.45 |
 |34. [Find First and Last Position of Element in Sorted Array](/Medium/Find_first_and_last_position_of_element_in_sorted_array/Solution.cs) <sup>Medium<sup>| 64.79 | 19.95 |
