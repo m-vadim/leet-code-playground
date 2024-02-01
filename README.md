@@ -8,7 +8,6 @@
 |4. [Median of Two Sorted Arrays](/Hard/Median_of_two_sorted_arrays/Solution.cs) <sup>Hard<sup>| 93.30 | 69.77 |
 |5. [Longest Palindromic Substring](/Medium/Longest_palindromic_substring/Solution.cs) <sup>Medium<sup>| 44.30 | 65.33 |
 |6. [Zigzag Conversion](/Medium/Zigzag_conversion/Solution.cs) <sup>Medium<sup>| 93.4 | 77.81 |
-|6. [Remove Duplicates from Sorted Array](/Easy/Remove_duplicates_from_sorted_array/Solution.cs) <sup>Easy<sup>| 68.42 | 32.7 |
 |7. [Reverse Integer](/Medium/Reverse_integer/Solution.cs) <sup>Medium<sup>| 71.22 | 72.83 |
 |8. [String to Integer (atoi)](/Medium/String_to_integer_(atoi)/Solution.cs) <sup>Medium<sup>| 50.32 | 74.75 |
 |9. [Palindrome Number](/Easy/Palindrome_number/Solution.cs) <sup>Easy<sup>| 47.54 | 95.65 |
@@ -21,6 +20,7 @@
 |20. [Valid Parentheses](/Easy/Valid_parentheses/Solution.cs) <sup>Easy<sup>| 93.72 | 16.65 |
 |21. [Merge Two Sorted Lists](/Easy/Merge_two_sorted_lists/Solution.cs) <sup>Easy<sup>| 90.22 | 79.17 |
 |22. [Generate Parentheses](/Medium/Generate_parentheses/Solution.cs) <sup>Medium<sup>| 81.8 | 38.80 |
+|26. [Remove Duplicates from Sorted Array](/Easy/Remove_duplicates_from_sorted_array/Solution.cs) <sup>Easy<sup>| 68.42 | 32.7 |
 |27. [Remove Element](/Easy/Remove_element/Solution.cs) <sup>Easy<sup>| 79.75 | 54.59 |
 |28. [Find the Index of the First Occurrence in a String](/Easy/Find_the_index_of_the_first_occurrence_in_a_string/Solution.cs) <sup>Easy<sup>| 35.65 | 59.93 |
 |29. [Divide Two Integers](/Medium/Divide_two_integers/Solution.cs) <sup>Medium<sup>| 87.20 | 18.45 |
@@ -114,3 +114,4 @@
 |2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs) <sup>Medium<sup>| 94 | 98 |
 |2849. [Determine if a Cell Is Reachable at a Given Time](/Medium/Determine_if_a_cell_is_reachable_at_a_given_time/Solution.cs) <sup>Medium<sup>| 92.38 | 91.43 |
 |2870. [Minimum Number of Operations to Make Array Empty](/Medium/Minimum_number_of_operations_to_make_array_empty/Solution.cs) <sup>Medium<sup>| 36.36 | 27.27 |
+|2966. [Divide Array Into Arrays With Max Difference](/Medium/Divide_array_into_arrays_with_max_difference/Solution.cs) <sup>Medium<sup>| 43.13 | 20.63 |
