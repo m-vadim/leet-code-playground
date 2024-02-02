@@ -70,6 +70,16 @@
 		}
 	},
 	{
+		"id": 1291,
+		"name": "Sequential Digits",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 100,
+			"memory": 42
+		}
+	},
+	{
 		"id": 26,
 		"name": "Remove Duplicates from Sorted Array",
 		"complexity": "Easy",

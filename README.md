@@ -87,6 +87,7 @@
 |1095. [Find in Mountain Array](/Hard/Find_in_mountain_array/Solution.cs) <sup>Hard<sup>| 41.18 | 100 |
 |1143. [Longest Common Subsequence](/Medium/Longest_common_subsequence/Solution.cs) <sup>Medium<sup>| 28.82 | 47.00 |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs) <sup>Medium<sup>| 50 | 34.95 |
+|1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs) <sup>Medium<sup>| 100 | 42 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs) <sup>Medium<sup>| 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs) <sup>Easy<sup>| 33.1 | 67.31 |
 |1436. [Destination City](/Easy/Destination_city/Solution.cs) <sup>Easy<sup>| 96.26 | 87.85 |
