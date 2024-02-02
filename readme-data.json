@@ -20,6 +20,16 @@
 		}
 	},
 	{
+		"id": 1071,
+		"name": "Greatest Common Divisor of Strings",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 89.49,
+			"memory": 35.43
+		}
+	},
+	{
 		"id": 2,
 		"name": "Add Two Numbers",
 		"complexity": "Medium",
