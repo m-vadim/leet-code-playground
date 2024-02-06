@@ -40,6 +40,16 @@
 		}
 	},
 	{
+		"id": 49,
+		"name": "Group Anagrams",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 99.84,
+			"memory": 54.77
+		}
+	},
+	{
 		"id": 2966,
 		"name": "Divide Array Into Arrays With Max Difference",
 		"complexity": "Medium",

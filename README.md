@@ -30,6 +30,7 @@
 |41. [First Missing Positive](/Hard/First_missing_positive/Solution.cs) <sup>Hard<sup>| 59.81 | 65.83 |
 |46. [Permutations](/Medium/Permutations/Solution.cs) <sup>Medium<sup>| 76 | 15.8 |
 |48. [Rotate Image](/Medium/Rotate_image/Solution.cs) <sup>Medium<sup>| 87.90 | 24.84 |
+|49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs) <sup>Medium<sup>| 99.84 | 54.77 |
 |53. [Maximum Subarray](/Medium/Maximum_subarray/Solution.cs) <sup>Medium<sup>| 98.24 | 94.87 |
 |66. [Plus One](/Easy/Plus_one/Solution.cs) <sup>Easy<sup>| 76.84 | 72.62 |
 |67. [Add Binary](/Easy/Add_binary/Solution.cs) <sup>Easy<sup>| 57.49 | 55.99 |
