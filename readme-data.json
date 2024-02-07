@@ -1158,5 +1158,15 @@
 			"runtime": 89.19,
 			"memory": 38.16
 		}
+	},
+	{
+		"id": 451,
+		"name": "Sort Characters By Frequency",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 95.53,
+			"memory": 75.98
+		}
 	}
 ]
