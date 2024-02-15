@@ -1188,5 +1188,15 @@
 			"runtime": 95.6,
 			"memory": 15.38
 		}
+	},
+	{
+		"id": 912,
+		"name": "Sort an Array",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 80.75,
+			"memory": 25.00
+		}
 	}
 ]

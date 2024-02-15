@@ -83,6 +83,7 @@
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs) <sup>Medium<sup>| 77.78 | 83.3 |
 |901. [Online Stock Span](/Medium/Online_stock_span/Solution.cs) <sup>Medium<sup>| 56.48 | 97.22 |
 |905. [Sort Array By Parity](/Easy/Sort_array_by_parity/Solution.cs) <sup>Easy<sup>| 91.68 | 83.29 |
+|912. [Sort an Array](/Medium/Sort_an_array/Solution.cs) <sup>Medium<sup>| 80.75 | 25.00 |
 |938. [Range Sum of BST](/Easy/Range_sum_of_bst/Solution.cs) <sup>Easy<sup>| 28.39 | 21.35 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs) <sup>Medium<sup>| 85.05 | 54.21 |
