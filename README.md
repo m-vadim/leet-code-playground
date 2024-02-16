@@ -98,6 +98,7 @@
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Medium/Maximum_number_of_vowels_in_a_substring_of_given_length/Solution.cs) <sup>Medium<sup>| 77.84 | 48.2 |
 |1457. [Pseudo-Palindromic Paths in a Binary Tree](/Medium/Pseudo-palindromic_paths_in_a_binary_tree/Solution.cs) <sup>Medium<sup>| 50.00 | 62.50 |
 |1470. [Shuffle the Array](/Easy/Shuffle_the_array/Solution.cs) <sup>Easy<sup>| 35.70 | 16.77 |
+|1481. [Least Number of Unique Integers after K Removals](/Medium/Least_number_of_unique_integers_after_k_removals/Solution.cs) <sup>Medium<sup>| 42.42 | 81.2 |
 |1491. [Average Salary Excluding the Minimum and Maximum Salary](/Easy/Average_salary_excluding_the_minimum_and_maximum_salary/Solution.cs) <sup>Easy<sup>| 83.88 | 37.83 |
 |1523. [Count Odd Numbers in an Interval Range](/Easy/Count_odd_numbers_in_an_interval_range/Solution.cs) <sup>Easy<sup>| 95.98 | 22.86 |
 |1647. [Minimum Deletions to Make Character Frequencies Unique](/Medium/Minimum_deletions_to_make_character_frequencies_unique/Solution.cs) <sup>Medium<sup>| 71.1 | 53.62 |

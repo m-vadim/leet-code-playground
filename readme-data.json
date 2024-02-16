@@ -1198,5 +1198,15 @@
 			"runtime": 80.75,
 			"memory": 25.00
 		}
+	},
+	{
+		"id": 1481,
+		"name": "Least Number of Unique Integers after K Removals",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 42.42,
+			"memory": 81.2
+		}
 	}
 ]
