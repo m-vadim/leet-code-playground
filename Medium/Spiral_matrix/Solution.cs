@@ -1,97 +1,66 @@
-using System.Security.AccessControl;
-
 /// <summary>
 /// https://leetcode.com/problems/spiral-matrix/
 /// </summary>
 public class Solution {
 	public IList<int> SpiralOrder(int[][] matrix) {
-		int rows = matrix.Length;
-		int columns = matrix[0].Length;
-
-		var list = new List<int>();
-		var start = new MatrixPos(0, 0);
-		var current = new MatrixPos(0, 0);
-		var dir = Direction.Right;
-		int horizontal = columns - 1, vertical = rows - 1;
-		int iterations = rows * columns;
-
-		while (iterations > 0) {
-			if (Direction.Horizontal.HasFlag(dir)) {
-				for (int i = 0; i < horizontal; i++) {
-					//Console.WriteLine();
-					list.Add(matrix[current.Row][current.Col]);
-					
-					current = Move(current, dir);
-					iterations--;
-				}
-				dir = UpdateDirection(dir);
-			}
-			else {
-				for (int i = 0; i < vertical; i++) {
-					list.Add(matrix[current.Row][current.Col]);
-					current = Move(current, dir);
-					iterations--;
-				}
-				dir = UpdateDirection(dir);
-			}
-
-			if (current == start) {
-				horizontal -= 2;
-				vertical -= 2;
-				if (horizontal == 0) {
-					horizontal = 1;
-				}
-				
-				start = new MatrixPos(start.Row + 1, start.Col + 1);
-				current = start;
-			}
+		if (matrix.Length == 1) {
+			return EnumerateSingleRow(matrix);
 		}
+
+		if (matrix[0].Length == 1) {
+			return EnumerateSingleColumn(matrix);
+		}
+
+		return EnumerateMatrix(matrix);
+	}
+
+	private static int[] EnumerateSingleRow(IReadOnlyList<int[]> matrix) {
+		return matrix[0];
+	}
+
+	private static int[] EnumerateSingleColumn(IReadOnlyList<int[]> matrix) {
+		var result = new int[matrix.Count];
+		for (var i = 0; i < matrix.Count; i++) {
+			result[i] = matrix[i][0];
+		}
+
+		return result;
+	}
+
+	private static int[] EnumerateMatrix(IReadOnlyList<int[]> matrix) {
+		int iterations = 0, 
+			top = 0, 
+			left = 0, 
+			right = matrix[0].Length - 1, 
+			bot = matrix.Count - 1;
 		
-		// do {
-		// 	
-		// 	
-		// 	
-		// 	
-		// } while (current != start);
+		var result = new int[matrix.Count * matrix[0].Length];
+		while (iterations < result.Length) {
+			// Go right 
+			for (int i = left; i <= right && iterations < result.Length; i++) {
+				result[iterations++] = matrix[top][i];
+			}
+			top++;
 
+			// Go down
+			for (int j = top; j <= bot && iterations < result.Length; j++) {
+				result[iterations++] = matrix[j][right];
+			}
+			right--;
 
-		// while (TryIterate(new MatrixPos(rowIndex, colIndex), start, out MatrixPos next)) {
-		// 	Console.WriteLine(matrix[next.Row][next.Col]);
-		// }
-		//
-		return list;
-	}
+			// Go left
+			for (int i = right; i >= left && iterations < result.Length; i--) {
+				result[iterations++] = matrix[bot][i];
+			}
+			bot--;
 
-	private Direction UpdateDirection(Direction currentDirection) {
-		return currentDirection switch {
-			Direction.Right => Direction.Down,
-			Direction.Down => Direction.Left,
-			Direction.Left => Direction.Up,
-			Direction.Up => Direction.Right
-		};
-	}
+			// Go up
+			for (int i = bot; i >= top && iterations < result.Length; i--) {
+				result[iterations++] = matrix[i][left];
+			}
+			left++;
+		}
 
-	private MatrixPos Move(MatrixPos current, Direction direction) {
-		return direction switch {
-			Direction.Right => new MatrixPos(current.Row, current.Col + 1),
-			Direction.Down => new MatrixPos(current.Row + 1, current.Col),
-			Direction.Left => new MatrixPos(current.Row, current.Col - 1),
-			Direction.Up => new MatrixPos(current.Row - 1, current.Col)
-		};
+		return result;
 	}
 }
-
-
-[Flags]
-internal enum Direction {
-	Right = 0,
-	Left = 2,
-	Down = 4,
-	Up = 8,
-	Horizontal = Right | Left,
-	Vertical = Down | Up
-}
-
-internal record Limit(int LastRow, int LastColumn);
-
-internal record MatrixPos(int Row, int Col);

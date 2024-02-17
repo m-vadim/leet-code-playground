@@ -32,6 +32,7 @@
 |48. [Rotate Image](/Medium/Rotate_image/Solution.cs) <sup>Medium<sup>| 87.90 | 24.84 |
 |49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs) <sup>Medium<sup>| 99.84 | 54.77 |
 |53. [Maximum Subarray](/Medium/Maximum_subarray/Solution.cs) <sup>Medium<sup>| 98.24 | 94.87 |
+|54. [Spiral Matrix](/Medium/Spiral_matrix/Solution.cs) <sup>Medium<sup>| 63.1 | 69.18 |
 |66. [Plus One](/Easy/Plus_one/Solution.cs) <sup>Easy<sup>| 76.84 | 72.62 |
 |67. [Add Binary](/Easy/Add_binary/Solution.cs) <sup>Easy<sup>| 57.49 | 55.99 |
 |69. [Sqrt(x)](/Easy/Sqrt(x)/Solution.cs) <sup>Easy<sup>| 81.47 | 36.86 |
