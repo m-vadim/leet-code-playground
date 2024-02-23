@@ -55,6 +55,7 @@
 |206. [Reverse Linked List](/Easy/Reverse_linked_list/Solution.cs) <sup>Easy<sup>| 98.97 | 83.91 |
 |208. [Implement Trie](/Medium/Implement_trie/Solution.cs) <sup>Medium<sup>| 67.72 | 94.42 |
 |211. [Design Add and Search Words Data Structure](/Medium/Design_add_and_search_words_data_structure/Solution.cs) <sup>Medium<sup>| 90.66 | 74.45 |
+|215. [Kth Largest Element in an Array](/Medium/Kth_largest_element_in_an_array/Solution.cs) <sup>Medium<sup>| 67.8 | 54.78 |
 |225. [Implement Stack using Queues](/Easy/Implement_stack_using_queues/Solution.cs) <sup>Easy<sup>| 94.84 | 54.52 |
 |229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs) <sup>Medium<sup>| 98.72 | 52.56 |
 |232. [Implement Queue using Stacks](/Easy/Implement_queue_using_stacks/Solution.cs) <sup>Easy<sup>| 66.73 | 13.38 |
