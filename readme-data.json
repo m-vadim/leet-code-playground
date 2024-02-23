@@ -1218,5 +1218,15 @@
 			"runtime": 63.1,
 			"memory": 69.18
 		}
+	},
+	{
+		"id": 787,
+		"name": "Cheapest Flights Within K Stops",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 98.67,
+			"memory": 94.67
+		}
 	}
 ]
