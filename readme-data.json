@@ -1238,5 +1238,15 @@
 			"runtime": 67.8,
 			"memory": 54.78
 		}
+	},
+	{
+		"id": 100,
+		"name": "Same Tree",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 76.82,
+			"memory": 25.43
+		}
 	}
 ]
