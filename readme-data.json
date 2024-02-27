@@ -1258,5 +1258,15 @@
 			"runtime": 65.4,
 			"memory": 53.06
 		}
+	},
+	{
+		"id": 543,
+		"name": "Diameter of Binary Tree",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 25.59,
+			"memory": 27.43
+		}
 	}
 ]
