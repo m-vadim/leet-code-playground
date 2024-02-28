@@ -1268,5 +1268,15 @@
 			"runtime": 25.59,
 			"memory": 27.43
 		}
+	},
+	{
+		"id": 513,
+		"name": "Find Bottom Left Tree Value",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 46.15,
+			"memory": 82.69
+		}
 	}
 ]
