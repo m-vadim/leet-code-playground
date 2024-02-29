@@ -1298,5 +1298,15 @@
 			"runtime": 51.52,
 			"memory": 36.36
 		}
+	},
+	{
+		"id": 1079,
+		"name": "Letter Tile Possibilities",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 60.87,
+			"memory": 93.48
+		}
 	}
 ]
