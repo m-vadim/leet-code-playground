@@ -1288,5 +1288,15 @@
 			"runtime": 82.72,
 			"memory": 64.05
 		}
+	},
+	{
+		"id": 1609,
+		"name": "Even Odd Tree",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 51.52,
+			"memory": 36.36
+		}
 	}
 ]

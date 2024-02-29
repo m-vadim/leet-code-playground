@@ -109,6 +109,7 @@
 |1481. [Least Number of Unique Integers after K Removals](/Medium/Least_number_of_unique_integers_after_k_removals/Solution.cs) <sup>Medium<sup>| 42.42 | 81.2 |
 |1491. [Average Salary Excluding the Minimum and Maximum Salary](/Easy/Average_salary_excluding_the_minimum_and_maximum_salary/Solution.cs) <sup>Easy<sup>| 83.88 | 37.83 |
 |1523. [Count Odd Numbers in an Interval Range](/Easy/Count_odd_numbers_in_an_interval_range/Solution.cs) <sup>Easy<sup>| 95.98 | 22.86 |
+|1609. [Even Odd Tree](/Medium/Even_odd_tree/Solution.cs) <sup>Medium<sup>| 51.52 | 36.36 |
 |1647. [Minimum Deletions to Make Character Frequencies Unique](/Medium/Minimum_deletions_to_make_character_frequencies_unique/Solution.cs) <sup>Medium<sup>| 71.1 | 53.62 |
 |1657. [Determine if Two Strings Are Close](/Medium/Determine_if_two_strings_are_close/Solution.cs) <sup>Medium<sup>| 84.3 | 78.99 |
 |1662. [Check If Two String Arrays are Equivalent](/Easy/Check_if_two_string_arrays_are_equivalent/Solution.cs) <sup>Easy<sup>| 89.50 | 90.87 |
