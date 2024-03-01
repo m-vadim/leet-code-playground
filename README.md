@@ -66,6 +66,7 @@
 |258. [Add Digits](/Easy/Add_digits/Solution.cs) <sup>Easy<sup>| 90.13 | 43.31 |
 |300. [Longest Increasing Subsequence](/Medium/Longest_increasing_subsequence/Solution.cs) <sup>Medium<sup>| 78.29 | 17.44 |
 |316. [Remove Duplicate Letters](/Medium/Remove_duplicate_letters/Solution.cs) <sup>Medium<sup>| 74.36 | 60.26 |
+|321. [Create Maximum Number](/Hard/Create_maximum_number/Solution.cs) <sup>Hard<sup>| 25.00 | 8.33 |
 |328. [Odd Even Linked List](/Medium/Odd_even_linked_list/Solution.cs) <sup>Medium<sup>| 86.71 | 46.4 |
 |334. [Increasing Triplet Subsequence](/Medium/Increasing_triplet_subsequence/Solution.cs) <sup>Medium<sup>| 70.61 | 85.16 |
 |341. [Flatten Nested List Iterator](/Medium/Flatten_nested_list_iterator/Solution.cs) <sup>Medium<sup>| 96.83 | 65.08 |

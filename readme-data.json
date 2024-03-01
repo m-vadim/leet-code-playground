@@ -1318,5 +1318,15 @@
 			"runtime": 60.61,
 			"memory": 57.58
 		}
+	},
+	{
+		"id": 321,
+		"name": "Create Maximum Number",
+		"complexity": "Hard",
+		"performance":
+		{
+			"runtime": 25.00,
+			"memory": 8.33
+		}
 	}
 ]
