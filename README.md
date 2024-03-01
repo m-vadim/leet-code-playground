@@ -114,6 +114,7 @@
 |1647. [Minimum Deletions to Make Character Frequencies Unique](/Medium/Minimum_deletions_to_make_character_frequencies_unique/Solution.cs) <sup>Medium<sup>| 71.1 | 53.62 |
 |1657. [Determine if Two Strings Are Close](/Medium/Determine_if_two_strings_are_close/Solution.cs) <sup>Medium<sup>| 84.3 | 78.99 |
 |1662. [Check If Two String Arrays are Equivalent](/Easy/Check_if_two_string_arrays_are_equivalent/Solution.cs) <sup>Easy<sup>| 89.50 | 90.87 |
+|1673. [Find the Most Competitive Subsequence](/Medium/Find_the_most_competitive_subsequence/Solution.cs) <sup>Medium<sup>| 60.61 | 57.58 |
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs) <sup>Medium<sup>| 76.55 | 34.88 |
 |1743. [Restore the Array From Adjacent Pairs](/Medium/Restore_the_array_from_adjacent_pairs/Solution.cs) <sup>Medium<sup>| 100 | 50 |
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs) <sup>Easy<sup>| 38.78 | 26.62 |

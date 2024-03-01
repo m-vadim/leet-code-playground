@@ -11,7 +11,7 @@ internal class SolutionTests {
     }
 
     [TestCaseSource(nameof(Cases))]
-    public static int Test(string tiles) {
+    public static int ReturnsCountOfTilePossibilities(string tiles) {
         return new Solution().NumTilePossibilities(tiles);
     }
 }
