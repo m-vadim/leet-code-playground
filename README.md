@@ -118,6 +118,7 @@
 |1673. [Find the Most Competitive Subsequence](/Medium/Find_the_most_competitive_subsequence/Solution.cs) <sup>Medium<sup>| 60.61 | 57.58 |
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs) <sup>Medium<sup>| 76.55 | 34.88 |
 |1743. [Restore the Array From Adjacent Pairs](/Medium/Restore_the_array_from_adjacent_pairs/Solution.cs) <sup>Medium<sup>| 100 | 50 |
+|1754. [Largest Merge Of Two Strings](/Medium/Largest_merge_of_two_strings/Solution.cs) <sup>Medium<sup>| 63.64 | 100 |
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs) <sup>Easy<sup>| 38.78 | 26.62 |
 |1930. [Unique Length-3 Palindromic Subsequences](/Medium/Unique_length-3_palindromic_subsequences/Solution.cs) <sup>Medium<sup>| 100 | 100 |
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs) <sup>Medium<sup>| 72 | 68 |
