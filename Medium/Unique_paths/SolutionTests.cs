@@ -11,7 +11,7 @@ internal class SolutionTests {
 	}
 
 	[TestCaseSource(nameof(Cases))]
-	public static int ReturnsMinLength(int rows, int columns) {
+	public static int ReturnsUniquePathsCount(int rows, int columns) {
 		return new Solution().UniquePaths(rows, columns);
 	}
 }
