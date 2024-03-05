@@ -1338,5 +1338,15 @@
 			"runtime": 63.64,
 			"memory": 100
 		}
+	},
+	{
+		"id": 1750,
+		"name": "Minimum Length of String After Deleting Similar Ends",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 75.00,
+			"memory": 75.00
+		}
 	}
 ]
