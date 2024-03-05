@@ -35,6 +35,7 @@
 |53. [Maximum Subarray](/Medium/Maximum_subarray/Solution.cs) <sup>Medium<sup>| 98.24 | 94.87 |
 |54. [Spiral Matrix](/Medium/Spiral_matrix/Solution.cs) <sup>Medium<sup>| 63.1 | 69.18 |
 |61. [Rotate List](/Medium/Rotate_list/Solution.cs) <sup>Medium<sup>| 82.72 | 64.05 |
+|62. [Unique Paths](/Medium/Unique_paths/Solution.cs) <sup>Medium<sup>| 94.99 | 80.87 |
 |66. [Plus One](/Easy/Plus_one/Solution.cs) <sup>Easy<sup>| 76.84 | 72.62 |
 |67. [Add Binary](/Easy/Add_binary/Solution.cs) <sup>Easy<sup>| 57.49 | 55.99 |
 |69. [Sqrt(x)](/Easy/Sqrt(x)/Solution.cs) <sup>Easy<sup>| 81.47 | 36.86 |
