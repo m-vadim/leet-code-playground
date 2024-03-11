@@ -90,6 +90,7 @@
 |739. [Daily Temperatures](/Medium/Daily_temperatures/Solution.cs) <sup>Medium<sup>| 91.77 | 97.10 |
 |746. [Min Cost Climbing Stairs](/Easy/Min_cost_climbing_stairs/Solution.cs) <sup>Easy<sup>| 73.65 | 67.81 |
 |787. [Cheapest Flights Within K Stops](/Medium/Cheapest_flights_within_k_stops/Solution.cs) <sup>Medium<sup>| 98.67 | 94.67 |
+|791. [Custom Sort String](/Medium/Custom_sort_string/Solution.cs) <sup>Medium<sup>| 84.72 | 45.84 |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs) <sup>Medium<sup>| 91.3 | 26.9 |
 |844. [Backspace String Compare](/Easy/Backspace_string_compare/Solution.cs) <sup>Easy<sup>| 87.54 | 93.31 |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs) <sup>Medium<sup>| 77.78 | 83.3 |

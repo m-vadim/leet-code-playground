@@ -1378,5 +1378,15 @@
 			"runtime": 86.31,
 			"memory": 25.22
 		}
+	},
+	{
+		"id": 791,
+		"name": "Custom Sort String",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 84.72,
+			"memory": 45.84
+		}
 	}
 ]
