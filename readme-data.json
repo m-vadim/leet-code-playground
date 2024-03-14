@@ -1388,5 +1388,15 @@
 			"runtime": 84.72,
 			"memory": 45.84
 		}
+	},
+	{
+		"id": 930,
+		"name": "Binary Subarrays With Sum",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 7.69,
+			"memory": 83.33
+		}
 	}
 ]
