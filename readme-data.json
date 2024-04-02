@@ -1398,5 +1398,15 @@
 			"runtime": 7.69,
 			"memory": 83.33
 		}
+	},
+	{
+		"id": 205,
+		"name": "Isomorphic Strings",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 89.28,
+			"memory": 85.83
+		}
 	}
 ]
