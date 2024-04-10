@@ -100,6 +100,7 @@
 |912. [Sort an Array](/Medium/Sort_an_array/Solution.cs) <sup>Medium<sup>| 80.75 | 25.00 |
 |930. [Binary Subarrays With Sum](/Medium/Binary_subarrays_with_sum/Solution.cs) <sup>Medium<sup>| 7.69 | 83.33 |
 |938. [Range Sum of BST](/Easy/Range_sum_of_bst/Solution.cs) <sup>Easy<sup>| 28.39 | 21.35 |
+|950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs) <sup>Medium<sup>| 84.21 | 21.05 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs) <sup>Medium<sup>| 85.05 | 54.21 |
 |1071. [Greatest Common Divisor of Strings](/Easy/Greatest_common_divisor_of_strings/Solution.cs) <sup>Easy<sup>| 89.49 | 35.43 |

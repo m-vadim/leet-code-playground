@@ -1408,5 +1408,15 @@
 			"runtime": 89.28,
 			"memory": 85.83
 		}
+	},
+	{
+		"id": 950,
+		"name": "Reveal Cards In Increasing Order",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 84.21,
+			"memory": 21.05
+		}
 	}
 ]
