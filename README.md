@@ -50,6 +50,7 @@
 |118. [Pascals Triangle](/Easy/Pascals_triangle/Solution.cs) <sup>Easy<sup>| 99.67 | 43.97 |
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs) <sup>Easy<sup>| 93.48 | 74.97 |
 |125. [Valid Palindrome](/Easy/Valid_palindrome/Solution.cs) <sup>Easy<sup>| 82.5 | 74.8 |
+|129. [Sum Root to Leaf Numbers](/Medium/Sum_root_to_leaf_numbers/Solution.cs) <sup>Medium<sup>| 65.27 | 62.72 |
 |135. [Candy](/Hard/Candy/Solution.cs) <sup>Hard<sup>| 91.7 | 91.7 |
 |141. [Linked List Cycle](/Easy/Linked_list_cycle/Solution.cs) <sup>Easy<sup>| 87.84 | 68.78 |
 |143. [Reorder List](/Medium/Reorder_list/Solution.cs) <sup>Medium<sup>| 91.77 | 95.15 |

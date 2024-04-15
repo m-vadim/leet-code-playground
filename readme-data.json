@@ -1418,5 +1418,15 @@
 			"runtime": 84.21,
 			"memory": 21.05
 		}
+	},
+	{
+		"id": 129,
+		"name": "Sum Root to Leaf Numbers",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 65.27,
+			"memory": 62.72
+		}
 	}
 ]
