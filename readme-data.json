@@ -1428,5 +1428,15 @@
 			"runtime": 65.27,
 			"memory": 62.72
 		}
+	},
+	{
+		"id": 623,
+		"name": "Add One Row to Tree",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 59.26,
+			"memory": 11.11
+		}
 	}
 ]

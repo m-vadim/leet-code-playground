@@ -84,6 +84,7 @@
 |451. [Sort Characters By Frequency](/Medium/Sort_characters_by_frequency/Solution.cs) <sup>Medium<sup>| 95.53 | 75.98 |
 |513. [Find Bottom Left Tree Value](/Medium/Find_bottom_left_tree_value/Solution.cs) <sup>Medium<sup>| 46.15 | 82.69 |
 |543. [Diameter of Binary Tree](/Easy/Diameter_of_binary_tree/Solution.cs) <sup>Easy<sup>| 25.59 | 27.43 |
+|623. [Add One Row to Tree](/Medium/Add_one_row_to_tree/Solution.cs) <sup>Medium<sup>| 59.26 | 11.11 |
 |643. [Maximum Average Subarray 1](/Easy/Maximum_average_subarray_1/Solution.cs) <sup>Easy<sup>| 55.7 | 78.38 |
 |649. [Dota2 Senate](/Medium/Dota2_senate/Solution.cs) <sup>Medium<sup>| 99.65 | 92.98 |
 |705. [Design HashSet](/Easy/Design_hashset/Solution.cs) <sup>Easy<sup>| 41.45 | 31.58 |
