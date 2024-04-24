@@ -1438,5 +1438,15 @@
 			"runtime": 59.26,
 			"memory": 11.11
 		}
+	},
+	{
+		"id": 1137,
+		"name": "N-th Tribonacci Number",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 99.14,
+			"memory": 32.76
+		}
 	}
 ]

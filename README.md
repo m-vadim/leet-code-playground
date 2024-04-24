@@ -108,6 +108,7 @@
 |1071. [Greatest Common Divisor of Strings](/Easy/Greatest_common_divisor_of_strings/Solution.cs) <sup>Easy<sup>| 89.49 | 35.43 |
 |1079. [Letter Tile Possibilities](/Medium/Letter_tile_possibilities/Solution.cs) <sup>Medium<sup>| 60.87 | 93.48 |
 |1095. [Find in Mountain Array](/Hard/Find_in_mountain_array/Solution.cs) <sup>Hard<sup>| 41.18 | 100 |
+|1137. [N-th Tribonacci Number](/Easy/N-th_tribonacci_number/Solution.cs) <sup>Easy<sup>| 99.14 | 32.76 |
 |1143. [Longest Common Subsequence](/Medium/Longest_common_subsequence/Solution.cs) <sup>Medium<sup>| 28.82 | 47.00 |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs) <sup>Medium<sup>| 50 | 34.95 |
 |1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs) <sup>Medium<sup>| 100 | 42 |
