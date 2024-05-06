@@ -1448,5 +1448,15 @@
 			"runtime": 99.14,
 			"memory": 32.76
 		}
+	},
+	{
+		"id": 2487,
+		"name": "Remove Nodes From Linked List",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 78.87,
+			"memory": 22.53
+		}
 	}
 ]

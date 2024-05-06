@@ -142,6 +142,7 @@
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs) <sup>Medium<sup>| 81.13 | 69.81 |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs) <sup>Medium<sup>| 99.6 | 50.39 |
 |2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs) <sup>Medium<sup>| 100 | 77.78 |
+|2487. [Remove Nodes From Linked List](/Medium/Remove_nodes_from_linked_list/Solution.cs) <sup>Medium<sup>| 78.87 | 22.53 |
 |2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs) <sup>Medium<sup>| 94 | 98 |
 |2849. [Determine if a Cell Is Reachable at a Given Time](/Medium/Determine_if_a_cell_is_reachable_at_a_given_time/Solution.cs) <sup>Medium<sup>| 92.38 | 91.43 |
 |2870. [Minimum Number of Operations to Make Array Empty](/Medium/Minimum_number_of_operations_to_make_array_empty/Solution.cs) <sup>Medium<sup>| 36.36 | 27.27 |
