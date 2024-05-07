@@ -1458,5 +1458,15 @@
 			"runtime": 78.87,
 			"memory": 22.53
 		}
+	},
+	{
+		"id": 2816,
+		"name": "Double a Number Represented as a Linked List",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 35.48,
+			"memory": 41.94
+		}
 	}
 ]
