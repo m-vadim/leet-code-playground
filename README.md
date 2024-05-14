@@ -110,6 +110,7 @@
 |1095. [Find in Mountain Array](/Hard/Find_in_mountain_array/Solution.cs) <sup>Hard<sup>| 41.18 | 100 |
 |1137. [N-th Tribonacci Number](/Easy/N-th_tribonacci_number/Solution.cs) <sup>Easy<sup>| 99.14 | 32.76 |
 |1143. [Longest Common Subsequence](/Medium/Longest_common_subsequence/Solution.cs) <sup>Medium<sup>| 28.82 | 47.00 |
+|1219. [Path with Maximum Gold](/Medium/Path_with_maximum_gold/Solution.cs) <sup>Medium<sup>| 96.15 | 80.77 |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs) <sup>Medium<sup>| 50 | 34.95 |
 |1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs) <sup>Medium<sup>| 100 | 42 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs) <sup>Medium<sup>| 100 | 19.44 |

@@ -1468,5 +1468,15 @@
 			"runtime": 35.48,
 			"memory": 41.94
 		}
+	},
+	{
+		"id": 1219,
+		"name": "Path with Maximum Gold",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 96.15,
+			"memory": 80.77
+		}
 	}
 ]
