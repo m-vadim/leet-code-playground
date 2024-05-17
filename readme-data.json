@@ -1488,5 +1488,15 @@
 			"runtime": 96.63,
 			"memory": 37.74
 		}
+	},
+	{
+		"id": 1325,
+		"name": "Delete Leaves With a Given Value",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 71.15,
+			"memory": 100
+		}
 	}
 ]

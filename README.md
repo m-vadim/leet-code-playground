@@ -114,6 +114,7 @@
 |1219. [Path with Maximum Gold](/Medium/Path_with_maximum_gold/Solution.cs) <sup>Medium<sup>| 96.15 | 80.77 |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs) <sup>Medium<sup>| 50 | 34.95 |
 |1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs) <sup>Medium<sup>| 100 | 42 |
+|1325. [Delete Leaves With a Given Value](/Medium/Delete_leaves_with_a_given_value/Solution.cs) <sup>Medium<sup>| 71.15 | 100 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs) <sup>Medium<sup>| 100 | 19.44 |
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs) <sup>Easy<sup>| 33.1 | 67.31 |
 |1436. [Destination City](/Easy/Destination_city/Solution.cs) <sup>Easy<sup>| 96.26 | 87.85 |
