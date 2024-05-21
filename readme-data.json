@@ -1498,5 +1498,15 @@
 			"runtime": 71.15,
 			"memory": 100
 		}
+	},
+	{
+		"id": 78,
+		"name": "Subsets",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 39.44,
+			"memory": 88.91
+		}
 	}
 ]
