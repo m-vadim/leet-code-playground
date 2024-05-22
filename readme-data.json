@@ -1508,5 +1508,15 @@
 			"runtime": 39.44,
 			"memory": 88.91
 		}
+	},
+	{
+		"id": 131,
+		"name": "Palindrome Partitioning",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 23.69,
+			"memory": 38.8
+		}
 	}
 ]
