@@ -107,6 +107,7 @@
 |938. [Range Sum of BST](/Easy/Range_sum_of_bst/Solution.cs) <sup>Easy<sup>| 28.39 | 21.35 |
 |950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs) <sup>Medium<sup>| 84.21 | 21.05 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
+|1002. [Find Common Characters](/Easy/Find_common_characters/Solution.cs) <sup>Easy<sup>| 79.12 | 89.01 |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs) <sup>Medium<sup>| 85.05 | 54.21 |
 |1071. [Greatest Common Divisor of Strings](/Easy/Greatest_common_divisor_of_strings/Solution.cs) <sup>Easy<sup>| 89.49 | 35.43 |
 |1079. [Letter Tile Possibilities](/Medium/Letter_tile_possibilities/Solution.cs) <sup>Medium<sup>| 60.87 | 93.48 |

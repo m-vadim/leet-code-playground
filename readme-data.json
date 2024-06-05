@@ -1518,5 +1518,15 @@
 			"runtime": 23.69,
 			"memory": 38.8
 		}
+	},
+	{
+		"id": 1002,
+		"name": "Find Common Characters",
+		"complexity": "Easy",
+		"performance":
+		{
+			"runtime": 79.12,
+			"memory": 89.01
+		}
 	}
 ]
