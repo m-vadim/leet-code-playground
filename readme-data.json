@@ -1528,5 +1528,15 @@
 			"runtime": 79.12,
 			"memory": 89.01
 		}
+	},
+	{
+		"id": 648,
+		"name": "Replace Words",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 6.12,
+			"memory": 61.22
+		}
 	}
 ]
