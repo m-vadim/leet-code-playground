@@ -1548,5 +1548,15 @@
 			"runtime": 44.32,
 			"memory": 63.64
 		}
+	},
+	{
+		"id": 75,
+		"name": "Sort Colors",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 67.48,
+			"memory": 86.96
+		}
 	}
 ]

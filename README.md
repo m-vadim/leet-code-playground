@@ -42,6 +42,7 @@
 |69. [Sqrt(x)](/Easy/Sqrt(x)/Solution.cs) <sup>Easy<sup>| 81.47 | 36.86 |
 |70. [Climbing Stairs](/Easy/Climbing_stairs/Solution.cs) <sup>Easy<sup>| 82.33 | 11.25 |
 |71. [Simplify Path](/Medium/Simplify_path/Solution.cs) <sup>Medium<sup>| 75.51 | 29.9 |
+|75. [Sort Colors](/Medium/Sort_colors/Solution.cs) <sup>Medium<sup>| 67.48 | 86.96 |
 |78. [Subsets](/Medium/Subsets/Solution.cs) <sup>Medium<sup>| 39.44 | 88.91 |
 |80. [Remove Duplicates from Sorted Array II](/Medium/Remove_duplicates_from_sorted_array_ii/Solution.cs) <sup>Medium<sup>| 86.31 | 25.22 |
 |88. [Merge Sorted Array](/Easy/Merge_sorted_array/Solution.cs) <sup>Easy<sup>| 64.63 | 52.22 |
