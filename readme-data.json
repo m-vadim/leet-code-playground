@@ -1558,5 +1558,15 @@
 			"runtime": 67.48,
 			"memory": 86.96
 		}
+	},
+	{
+		"id": 945,
+		"name": "Minimum Increment to Make Array Unique",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 37.50,
+			"memory": 100
+		}
 	}
 ]

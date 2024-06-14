@@ -107,6 +107,7 @@
 |912. [Sort an Array](/Medium/Sort_an_array/Solution.cs) <sup>Medium<sup>| 80.75 | 25.00 |
 |930. [Binary Subarrays With Sum](/Medium/Binary_subarrays_with_sum/Solution.cs) <sup>Medium<sup>| 7.69 | 83.33 |
 |938. [Range Sum of BST](/Easy/Range_sum_of_bst/Solution.cs) <sup>Easy<sup>| 28.39 | 21.35 |
+|945. [Minimum Increment to Make Array Unique](/Medium/Minimum_increment_to_make_array_unique/Solution.cs) <sup>Medium<sup>| 37.50 | 100 |
 |950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs) <sup>Medium<sup>| 84.21 | 21.05 |
 |989. [Add to Array-Form of Integer](/Easy/Add_to_array-form_of_integer/Solution.cs) <sup>Easy<sup>| 15.41 | 87.26 |
 |1002. [Find Common Characters](/Easy/Find_common_characters/Solution.cs) <sup>Easy<sup>| 79.12 | 89.01 |
