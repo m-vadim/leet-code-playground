@@ -1568,5 +1568,15 @@
 			"runtime": 37.50,
 			"memory": 100
 		}
+	},
+	{
+		"id": 502,
+		"name": "IPO",
+		"complexity": "Hard",
+		"performance":
+		{
+			"runtime": 44.85,
+			"memory": 74.26
+		}
 	}
 ]
