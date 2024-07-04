@@ -1579,4 +1579,15 @@
 			"memory": 74.26
 		}
 	}
+	,
+	{
+		"id": 2181,
+		"name": "Merge Nodes in Between Zeros",
+		"complexity": "Medium",
+		"performance":
+		{
+			"runtime": 62.96,
+			"memory": 81.48
+		}
+	}
 ]
