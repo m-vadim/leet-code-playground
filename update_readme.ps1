@@ -2,7 +2,7 @@ function Start-Main {
     $readme = "README.md"
     Set-Content -Path $readme -Value '## Some of my [leetcode.com](https://leetcode.com) tasks solutions'
     
-    $solutions = Get-Content -Raw "readme-data.json" | ConvertFrom-Json
+    $solutions = Get-Content -Raw "readme-data.csv" | ConvertFrom-Csv
     $easy = $solutions | Where-Object -Property "complexity" -EQ 'Easy'
     $medium = $solutions | Where-Object -Property "complexity" -EQ 'Medium'
     $hard = $solutions | Where-Object -Property "complexity" -EQ 'Hard'
@@ -30,13 +30,13 @@ function RenderSection {
     Add-Content -Path $readme -Value "<summary><b>$($title)  #$($solutions.Count)</b></summary>"
     Add-Content -Path $readme -Value "`n|Problem|Runtime(%)|Memory(%)|"
     Add-Content -Path $readme -Value "`|--|--|--|"
-    foreach($solution in $solutions | Sort-Object -Property "id") {
+    foreach($solution in $solutions | Sort-Object @{e={$_.Id -as [int]}}) {
         $solution_path = ConvertToPath $solution.name $solution.complexity
         if (-not(Test-Path $solution_path)) {
             Write-Host -Foreground "Red" "Invalid solution path for task #$($solution.Id) $($solution_path)"
         }
 
-        Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path))| $($solution.performance.runtime) | $($solution.performance.memory) |"
+        Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path))| $($solution.runtime) | $($solution.memory) |"
     }
     Add-Content -Path $readme -Value "`n</details>"
 }
