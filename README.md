@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #105</b></summary>
+<summary><b>Medium  #106</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -149,6 +149,7 @@
 |1754. [Largest Merge Of Two Strings](/Medium/Largest_merge_of_two_strings/Solution.cs)| 63.64 | 100 |
 |1930. [Unique Length-3 Palindromic Subsequences](/Medium/Unique_length-3_palindromic_subsequences/Solution.cs)| 100 | 100 |
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs)| 72 | 68 |
+|2058. [Find the Minimum and Maximum Number of Nodes Between Critical Points](/Medium/Find_the_minimum_and_maximum_number_of_nodes_between_critical_points/Solution.cs)| 91.67 | 91.67 |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs)| 98.61 | 38.05 |
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)| 47.6 | 98.4 |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)| 83.19 | 49.2 |
