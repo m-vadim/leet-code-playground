@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #106</b></summary>
+<summary><b>Medium  #108</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -144,6 +144,7 @@
 |1657. [Determine if Two Strings Are Close](/Medium/Determine_if_two_strings_are_close/Solution.cs)| 84.3 | 78.99 |
 |1673. [Find the Most Competitive Subsequence](/Medium/Find_the_most_competitive_subsequence/Solution.cs)| 60.61 | 57.58 |
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs)| 76.55 | 34.88 |
+|1717. [Maximum Score From Removing Substrings](/Medium/Maximum_score_from_removing_substrings/Solution.cs)| 90.91 | 81.82 |
 |1743. [Restore the Array From Adjacent Pairs](/Medium/Restore_the_array_from_adjacent_pairs/Solution.cs)| 100 | 50 |
 |1750. [Minimum Length of String After Deleting Similar Ends](/Medium/Minimum_length_of_string_after_deleting_similar_ends/Solution.cs)| 75.00 | 75.00 |
 |1754. [Largest Merge Of Two Strings](/Medium/Largest_merge_of_two_strings/Solution.cs)| 63.64 | 100 |
@@ -155,6 +156,7 @@
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)| 83.19 | 49.2 |
 |2149. [Rearrange Array Elements by Sign](/Medium/Rearrange_array_elements_by_sign/Solution.cs)| 92.86 | 36.74 |
 |2181. [Merge Nodes in Between Zeros](/Medium/Merge_nodes_in_between_zeros/Solution.cs)| 62.96 | 81.48 |
+|2196. [Create Binary Tree From Descriptions](/Medium/Create_binary_tree_from_descriptions/Solution.cs)| 100 | 100 |
 |2225. [Find Players With Zero or One Losses](/Medium/Find_players_with_zero_or_one_losses/Solution.cs)| 53.01 | 15.66 |
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs)| 98.57 | 57.43 |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs)| 81.13 | 69.81 |
