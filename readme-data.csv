@@ -161,3 +161,4 @@ id, name, complexity, runtime, memory
 2058, "Find the Minimum and Maximum Number of Nodes Between Critical Points", Medium, 91.67, 91.67
 1717, "Maximum Score From Removing Substrings", Medium, 90.91, 81.82
 2196, "Create Binary Tree From Descriptions", Medium, 100, 100
+2096, "Step-By-Step Directions From a Binary Tree Node to Another", Medium, 87.5, 62.5

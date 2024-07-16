@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #108</b></summary>
+<summary><b>Medium  #109</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -152,6 +152,7 @@
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs)| 72 | 68 |
 |2058. [Find the Minimum and Maximum Number of Nodes Between Critical Points](/Medium/Find_the_minimum_and_maximum_number_of_nodes_between_critical_points/Solution.cs)| 91.67 | 91.67 |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs)| 98.61 | 38.05 |
+|2096. [Step-By-Step Directions From a Binary Tree Node to Another](/Medium/Step-by-step_directions_from_a_binary_tree_node_to_another/Solution.cs)| 87.5 | 62.5 |
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)| 47.6 | 98.4 |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)| 83.19 | 49.2 |
 |2149. [Rearrange Array Elements by Sign](/Medium/Rearrange_array_elements_by_sign/Solution.cs)| 92.86 | 36.74 |
