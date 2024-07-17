@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #109</b></summary>
+<summary><b>Medium  #110</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -130,6 +130,7 @@
 |950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs)| 84.21 | 21.05 |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs)| 85.05 | 54.21 |
 |1079. [Letter Tile Possibilities](/Medium/Letter_tile_possibilities/Solution.cs)| 60.87 | 93.48 |
+|1110. [Delete Nodes And Return Forest](/Medium/Delete_nodes_and_return_forest/Solution.cs)| 21.98 | 71.43 |
 |1143. [Longest Common Subsequence](/Medium/Longest_common_subsequence/Solution.cs)| 28.82 | 47.00 |
 |1219. [Path with Maximum Gold](/Medium/Path_with_maximum_gold/Solution.cs)| 96.15 | 80.77 |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs)| 50 | 34.95 |
