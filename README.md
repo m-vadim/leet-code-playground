@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #110</b></summary>
+<summary><b>Medium  #111</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -142,6 +142,7 @@
 |1481. [Least Number of Unique Integers after K Removals](/Medium/Least_number_of_unique_integers_after_k_removals/Solution.cs)| 42.42 | 81.2 |
 |1609. [Even Odd Tree](/Medium/Even_odd_tree/Solution.cs)| 51.52 | 36.36 |
 |1647. [Minimum Deletions to Make Character Frequencies Unique](/Medium/Minimum_deletions_to_make_character_frequencies_unique/Solution.cs)| 71.1 | 53.62 |
+|1653. [Minimum Deletions to Make String Balanced](/Medium/Minimum_deletions_to_make_string_balanced/Solution.cs)| 50.00 | 28.57 |
 |1657. [Determine if Two Strings Are Close](/Medium/Determine_if_two_strings_are_close/Solution.cs)| 84.3 | 78.99 |
 |1673. [Find the Most Competitive Subsequence](/Medium/Find_the_most_competitive_subsequence/Solution.cs)| 60.61 | 57.58 |
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs)| 76.55 | 34.88 |
