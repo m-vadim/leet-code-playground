@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #111</b></summary>
+<summary><b>Medium  #112</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -172,6 +172,7 @@
 |2870. [Minimum Number of Operations to Make Array Empty](/Medium/Minimum_number_of_operations_to_make_array_empty/Solution.cs)| 36.36 | 27.27 |
 |2966. [Divide Array Into Arrays With Max Difference](/Medium/Divide_array_into_arrays_with_max_difference/Solution.cs)| 43.13 | 20.63 |
 |2971. [Find Polygon With the Largest Perimeter](/Medium/Find_polygon_with_the_largest_perimeter/Solution.cs)| 95.6 | 15.38 |
+|3016. [Minimum Number of Pushes to Type Word II](/Medium/Minimum_number_of_pushes_to_type_word_ii/Solution.cs)| 100.00 | 18.18 |
 
 </details>
 

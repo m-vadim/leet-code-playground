@@ -164,3 +164,4 @@ id, name, complexity, runtime, memory
 2096, "Step-By-Step Directions From a Binary Tree Node to Another", Medium, 87.5, 62.5
 1110, "Delete Nodes And Return Forest", Medium, 21.98, 71.43
 1653, "Minimum Deletions to Make String Balanced", Medium, 50.00, 28.57
+3016, "Minimum Number of Pushes to Type Word II", Medium, 100.00, 18.18
