@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #112</b></summary>
+<summary><b>Medium  #113</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -77,6 +77,7 @@
 |34. [Find First and Last Position of Element in Sorted Array](/Medium/Find_first_and_last_position_of_element_in_sorted_array/Solution.cs)| 64.79 | 19.95 |
 |36. [Valid Sudoku](/Medium/Valid_sudoku/Solution.cs)| 96.89 | 80.88 |
 |38. [Count and Say](/Medium/Count_and_say/Solution.cs)| 78.92 | 43.87 |
+|40. [Combination Sum II](/Medium/Combination_sum_ii/Solution.cs)| 84.38 | 82.47 |
 |46. [Permutations](/Medium/Permutations/Solution.cs)| 76 | 15.8 |
 |48. [Rotate Image](/Medium/Rotate_image/Solution.cs)| 87.90 | 24.84 |
 |49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs)| 99.84 | 54.77 |
