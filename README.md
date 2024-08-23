@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #113</b></summary>
+<summary><b>Medium  #114</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -115,6 +115,7 @@
 |443. [String Compression](/Medium/String_compression/Solution.cs)| 40.88 | 79.48 |
 |451. [Sort Characters By Frequency](/Medium/Sort_characters_by_frequency/Solution.cs)| 95.53 | 75.98 |
 |513. [Find Bottom Left Tree Value](/Medium/Find_bottom_left_tree_value/Solution.cs)| 46.15 | 82.69 |
+|592. [Fraction Addition and Subtraction](/Medium/Fraction_addition_and_subtraction/Solution.cs)| 100.00 | 71.43 |
 |623. [Add One Row to Tree](/Medium/Add_one_row_to_tree/Solution.cs)| 59.26 | 11.11 |
 |648. [Replace Words](/Medium/Replace_words/Solution.cs)| 6.12 | 61.22 |
 |649. [Dota2 Senate](/Medium/Dota2_senate/Solution.cs)| 99.65 | 92.98 |

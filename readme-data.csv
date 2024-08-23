@@ -166,3 +166,4 @@ id, name, complexity, runtime, memory
 1653, "Minimum Deletions to Make String Balanced", Medium, 50.00, 28.57
 3016, "Minimum Number of Pushes to Type Word II", Medium, 100.00, 18.18
 40, "Combination Sum II", Medium, 84.38, 82.47
+592, "Fraction Addition and Subtraction", Medium, 100.00, 71.43
