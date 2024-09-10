@@ -169,3 +169,4 @@ id, name, complexity, runtime, memory
 592, "Fraction Addition and Subtraction", Medium, 100.00, 71.43
 986, "Interval List Intersections", Medium, 99.46, 88.59
 33, "Search in Rotated Sorted Array", Medium, 92.35, 65.58
+2807, "Insert Greatest Common Divisors in Linked List", Medium, 39.87, 5.7

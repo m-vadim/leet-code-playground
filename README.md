@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #116</b></summary>
+<summary><b>Medium  #117</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -171,6 +171,7 @@
 |2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs)| 100 | 77.78 |
 |2487. [Remove Nodes From Linked List](/Medium/Remove_nodes_from_linked_list/Solution.cs)| 78.87 | 22.53 |
 |2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs)| 94 | 98 |
+|2807. [Insert Greatest Common Divisors in Linked List](/Medium/Insert_greatest_common_divisors_in_linked_list/Solution.cs)| 39.87 | 5.7 |
 |2816. [Double a Number Represented as a Linked List](/Medium/Double_a_number_represented_as_a_linked_list/Solution.cs)| 35.48 | 41.94 |
 |2849. [Determine if a Cell Is Reachable at a Given Time](/Medium/Determine_if_a_cell_is_reachable_at_a_given_time/Solution.cs)| 92.38 | 91.43 |
 |2870. [Minimum Number of Operations to Make Array Empty](/Medium/Minimum_number_of_operations_to_make_array_empty/Solution.cs)| 36.36 | 27.27 |
