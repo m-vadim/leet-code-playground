@@ -168,3 +168,4 @@ id, name, complexity, runtime, memory
 40, "Combination Sum II", Medium, 84.38, 82.47
 592, "Fraction Addition and Subtraction", Medium, 100.00, 71.43
 986, "Interval List Intersections", Medium, 99.46, 88.59
+33, "Search in Rotated Sorted Array", Medium, 92.35, 65.58

@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #115</b></summary>
+<summary><b>Medium  #116</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -74,6 +74,7 @@
 |19. [Remove Nth Node From End of List](/Medium/Remove_nth_node_from_end_of_list/Solution.cs)| 85.26 | 79.96 |
 |22. [Generate Parentheses](/Medium/Generate_parentheses/Solution.cs)| 81.8 | 38.80 |
 |29. [Divide Two Integers](/Medium/Divide_two_integers/Solution.cs)| 87.20 | 18.45 |
+|33. [Search in Rotated Sorted Array](/Medium/Search_in_rotated_sorted_array/Solution.cs)| 92.35 | 65.58 |
 |34. [Find First and Last Position of Element in Sorted Array](/Medium/Find_first_and_last_position_of_element_in_sorted_array/Solution.cs)| 64.79 | 19.95 |
 |36. [Valid Sudoku](/Medium/Valid_sudoku/Solution.cs)| 96.89 | 80.88 |
 |38. [Count and Say](/Medium/Count_and_say/Solution.cs)| 78.92 | 43.87 |
