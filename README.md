@@ -1,7 +1,7 @@
 ## Some of my [leetcode.com](https://leetcode.com) tasks solutions
 
 <details>
-<summary><b>Easy  #48</b></summary>
+<summary><b>Easy  #49</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -31,6 +31,7 @@
 |232. [Implement Queue using Stacks](/Easy/Implement_queue_using_stacks/Solution.cs)| 66.73 | 13.38 |
 |258. [Add Digits](/Easy/Add_digits/Solution.cs)| 90.13 | 43.31 |
 |345. [Reverse Vowels of a String](/Easy/Reverse_vowels_of_a_string/Solution.cs)| 85.11 | 96.7 |
+|367. [Valid Perfect Square](/Easy/Valid_perfect_square/Solution.cs)| 51.05 | 99.77 |
 |389. [Find the Difference](/Easy/Find_the_difference/Solution.cs)| 83.11 | 95.31 |
 |392. [Is Subsequence](/Easy/Is_subsequence/Solution.cs)| 89 | 76.17 |
 |543. [Diameter of Binary Tree](/Easy/Diameter_of_binary_tree/Solution.cs)| 25.59 | 27.43 |
