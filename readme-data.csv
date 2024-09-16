@@ -171,3 +171,4 @@ id, name, complexity, runtime, memory
 33, "Search in Rotated Sorted Array", Medium, 92.35, 65.58
 2807, "Insert Greatest Common Divisors in Linked List", Medium, 39.87, 5.7
 367, "Valid Perfect Square", Easy, 51.05, 99.77
+539, "Minimum Time Difference", Medium, 74.36, 69.23
