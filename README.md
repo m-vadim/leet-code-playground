@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #120</b></summary>
+<summary><b>Medium  #121</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -105,6 +105,7 @@
 |189. [Rotate Array](/Medium/Rotate_array/Solution.cs)| 53.41 | 50.77 |
 |207. [Course Schedule](/Medium/Course_schedule/Solution.cs)| 5.12 | 5.12 |
 |208. [Implement Trie](/Medium/Implement_trie/Solution.cs)| 67.72 | 94.42 |
+|210. [Course Schedule II](/Medium/Course_schedule_ii/Solution.cs)| 5.02 | 5.02 |
 |211. [Design Add and Search Words Data Structure](/Medium/Design_add_and_search_words_data_structure/Solution.cs)| 90.66 | 74.45 |
 |215. [Kth Largest Element in an Array](/Medium/Kth_largest_element_in_an_array/Solution.cs)| 67.8 | 54.78 |
 |229. [Majority Element 2](/Medium/Majority_element_2/Solution.cs)| 98.72 | 52.56 |
