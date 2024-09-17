@@ -173,3 +173,4 @@ id, name, complexity, runtime, memory
 367, "Valid Perfect Square", Easy, 51.05, 99.77
 539, "Minimum Time Difference", Medium, 74.36, 69.23
 133, "Clone Graph", Medium, 15.99, 87.11
+207, "Course Schedule", Medium, 5.12, 5.12
