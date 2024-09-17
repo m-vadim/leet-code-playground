@@ -172,3 +172,4 @@ id, name, complexity, runtime, memory
 2807, "Insert Greatest Common Divisors in Linked List", Medium, 39.87, 5.7
 367, "Valid Perfect Square", Easy, 51.05, 99.77
 539, "Minimum Time Difference", Medium, 74.36, 69.23
+133, "Clone Graph", Medium, 15.99, 87.11
