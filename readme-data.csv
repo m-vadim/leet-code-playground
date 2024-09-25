@@ -176,3 +176,4 @@ id, name, complexity, runtime, memory
 207, "Course Schedule", Medium, 5.12, 5.12
 210, "Course Schedule II", Medium, 5.02, 5.02
 179, "Largest Number", Medium, 81.74, 87.21
+37, "Sudoku Solver", Hard, 40.66, 73.86

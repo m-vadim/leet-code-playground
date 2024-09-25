@@ -188,11 +188,12 @@
 </details>
 
 <details>
-<summary><b>Hard  #6</b></summary>
+<summary><b>Hard  #7</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
 |4. [Median of Two Sorted Arrays](/Hard/Median_of_two_sorted_arrays/Solution.cs)| 93.30 | 69.77 |
+|37. [Sudoku Solver](/Hard/Sudoku_solver/Solution.cs)| 40.66 | 73.86 |
 |41. [First Missing Positive](/Hard/First_missing_positive/Solution.cs)| 59.81 | 65.83 |
 |135. [Candy](/Hard/Candy/Solution.cs)| 91.7 | 91.7 |
 |321. [Create Maximum Number](/Hard/Create_maximum_number/Solution.cs)| 25.00 | 8.33 |
