@@ -178,3 +178,4 @@ id, name, complexity, runtime, memory
 179, "Largest Number", Medium, 81.74, 87.21
 37, "Sudoku Solver", Hard, 40.66, 73.86
 729, "My Calendar I", Medium, 14.29, 44.64
+731, "My Calendar II", Medium, 25.00, 35.00
