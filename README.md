@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #124</b></summary>
+<summary><b>Medium  #125</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -148,6 +148,7 @@
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs)| 50 | 34.95 |
 |1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs)| 100 | 42 |
 |1325. [Delete Leaves With a Given Value](/Medium/Delete_leaves_with_a_given_value/Solution.cs)| 71.15 | 100 |
+|1381. [Design a Stack With Increment Operation](/Medium/Design_a_stack_with_increment_operation/Solution.cs)| 66.18 | 75.00 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs)| 100 | 19.44 |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Medium/Maximum_number_of_vowels_in_a_substring_of_given_length/Solution.cs)| 77.84 | 48.2 |
 |1457. [Pseudo-Palindromic Paths in a Binary Tree](/Medium/Pseudo-palindromic_paths_in_a_binary_tree/Solution.cs)| 50.00 | 62.50 |

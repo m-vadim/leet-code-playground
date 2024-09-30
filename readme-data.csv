@@ -179,3 +179,4 @@ id, name, complexity, runtime, memory
 37, "Sudoku Solver", Hard, 40.66, 73.86
 729, "My Calendar I", Medium, 14.29, 44.64
 731, "My Calendar II", Medium, 25.00, 35.00
+1381, "Design a Stack With Increment Operation", Medium, 66.18, 75.00
