@@ -31,9 +31,12 @@ function RenderSection {
     Add-Content -Path $readme -Value "`n|Problem|Runtime(%)|Memory(%)|"
     Add-Content -Path $readme -Value "`|--|--|--|"
     foreach($solution in $solutions | Sort-Object @{e={$_.Id -as [int]}}) {
-        $solution_path = ConvertToPath $solution.name $solution.complexity
+        $solution_path = ConvertToPath $solution.name $solution.complexity "Solution.cs"
         if (-not(Test-Path $solution_path)) {
-            Write-Host -Foreground "Red" "Invalid solution path for task #$($solution.Id) $($solution_path)"
+            $solution_path = ConvertToPath $solution.name $solution.complexity "solution.py"
+            if (-not(Test-Path $solution_path)) {
+                Write-Host -Foreground "Red" "Invalid solution path for task #$($solution.Id) $($solution_path)"
+            }
         }
 
         Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path))| $($solution.runtime) | $($solution.memory) |"
@@ -44,13 +47,14 @@ function RenderSection {
 function ConvertToPath {
     param(
         [Parameter (Mandatory = $true)] [String] $Name,
-        [Parameter (Mandatory = $true)] [String] $Complexity
+        [Parameter (Mandatory = $true)] [String] $Complexity,
+        [Parameter (Mandatory = $true)] [String] $SolutionName
     )
 
     $Name = $Name.Replace(" ", "_")
     $Name = $Name.Substring(0,1).ToUpper() + $Name.Substring(1).ToLower()
 
-    return "$($Complexity)/$($Name)/Solution.cs"
+    return "$($Complexity)/$($Name)/$($SolutionName)"
 }
 
 Start-Main

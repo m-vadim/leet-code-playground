@@ -1,7 +1,7 @@
 ## Some of my [leetcode.com](https://leetcode.com) tasks solutions
 
 <details>
-<summary><b>Easy  #49</b></summary>
+<summary><b>Easy  #50</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -47,6 +47,7 @@
 |1071. [Greatest Common Divisor of Strings](/Easy/Greatest_common_divisor_of_strings/Solution.cs)| 89.49 | 35.43 |
 |1122. [Relative Sort Array](/Easy/Relative_sort_array/Solution.cs)| 44.32 | 63.64 |
 |1137. [N-th Tribonacci Number](/Easy/N-th_tribonacci_number/Solution.cs)| 99.14 | 32.76 |
+|1331. [Rank Transform of an Array](/Easy/Rank_transform_of_an_array/solution.py)| 20.35 | 89.62 |
 |1431. [Kids With the Greatest Number of Candies](/Easy/Kids_with_the_greatest_number_of_candies/Solution.cs)| 33.1 | 67.31 |
 |1436. [Destination City](/Easy/Destination_city/Solution.cs)| 96.26 | 87.85 |
 |1470. [Shuffle the Array](/Easy/Shuffle_the_array/Solution.cs)| 35.70 | 16.77 |
