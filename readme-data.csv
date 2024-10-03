@@ -181,3 +181,4 @@ id, name, complexity, runtime, memory
 731, "My Calendar II", Medium, 25.00, 35.00
 1381, "Design a Stack With Increment Operation", Medium, 66.18, 75.00
 1331, "Rank Transform of an Array", Easy, 20.35, 89.62
+43, "Multiply Strings", Medium, 8.35, 23.41

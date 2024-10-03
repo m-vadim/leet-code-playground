@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #125</b></summary>
+<summary><b>Medium  #126</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -81,6 +81,7 @@
 |36. [Valid Sudoku](/Medium/Valid_sudoku/Solution.cs)| 96.89 | 80.88 |
 |38. [Count and Say](/Medium/Count_and_say/Solution.cs)| 78.92 | 43.87 |
 |40. [Combination Sum II](/Medium/Combination_sum_ii/Solution.cs)| 84.38 | 82.47 |
+|43. [Multiply Strings](/Medium/Multiply_strings/Solution.cs)| 8.35 | 23.41 |
 |46. [Permutations](/Medium/Permutations/Solution.cs)| 76 | 15.8 |
 |48. [Rotate Image](/Medium/Rotate_image/Solution.cs)| 87.90 | 24.84 |
 |49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs)| 99.84 | 54.77 |
