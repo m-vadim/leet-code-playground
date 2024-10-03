@@ -1,7 +1,7 @@
 ## Some of my [leetcode.com](https://leetcode.com) tasks solutions
 
 <details>
-<summary><b>Easy  #50</b></summary>
+<summary><b>Easy  #51</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -20,6 +20,7 @@
 |70. [Climbing Stairs](/Easy/Climbing_stairs/Solution.cs)| 82.33 | 11.25 |
 |88. [Merge Sorted Array](/Easy/Merge_sorted_array/Solution.cs)| 64.63 | 52.22 |
 |100. [Same Tree](/Easy/Same_tree/Solution.cs)| 76.82 | 25.43 |
+|101. [Symmetric Tree](/Easy/Symmetric_tree/solution.py)| 53.70 | 64.94 |
 |104. [Maximum Depth of Binary Tree](/Easy/Maximum_depth_of_binary_tree/Solution.cs)| 69.76 | 76.20 |
 |118. [Pascals Triangle](/Easy/Pascals_triangle/Solution.cs)| 99.67 | 43.97 |
 |121. [Best Time to Buy and Sell Stock](/Easy/Best_time_to_buy_and_sell_stock/Solution.cs)| 93.48 | 74.97 |
