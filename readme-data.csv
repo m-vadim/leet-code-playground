@@ -183,3 +183,4 @@ id, name, complexity, runtime, memory
 1331, "Rank Transform of an Array", Easy, 20.35, 89.62
 43, "Multiply Strings", Medium, 8.35, 23.41
 101, "Symmetric Tree", Easy, 53.70, 64.94
+2491, "Divide Players Into Teams of Equal Skill", Medium, 46.90, 31.15
