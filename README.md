@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #127</b></summary>
+<summary><b>Medium  #128</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -153,6 +153,7 @@
 |1325. [Delete Leaves With a Given Value](/Medium/Delete_leaves_with_a_given_value/Solution.cs)| 71.15 | 100 |
 |1381. [Design a Stack With Increment Operation](/Medium/Design_a_stack_with_increment_operation/Solution.cs)| 66.18 | 75.00 |
 |1396. [Design Underground System](/Medium/Design_underground_system/Solution.cs)| 100 | 19.44 |
+|1405. [Longest Happy String](/Medium/Longest_happy_string/solution.py)| 37.04 | 48.15 |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](/Medium/Maximum_number_of_vowels_in_a_substring_of_given_length/Solution.cs)| 77.84 | 48.2 |
 |1457. [Pseudo-Palindromic Paths in a Binary Tree](/Medium/Pseudo-palindromic_paths_in_a_binary_tree/Solution.cs)| 50.00 | 62.50 |
 |1481. [Least Number of Unique Integers after K Removals](/Medium/Least_number_of_unique_integers_after_k_removals/Solution.cs)| 42.42 | 81.2 |

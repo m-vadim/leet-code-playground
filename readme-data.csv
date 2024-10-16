@@ -184,3 +184,4 @@ id, name, complexity, runtime, memory
 43, "Multiply Strings", Medium, 8.35, 23.41
 101, "Symmetric Tree", Easy, 53.70, 64.94
 2491, "Divide Players Into Teams of Equal Skill", Medium, 46.90, 31.15
+1405, "Longest Happy String", Medium, 37.04, 48.15
