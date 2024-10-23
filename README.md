@@ -198,7 +198,7 @@
 </details>
 
 <details>
-<summary><b>Hard  #7</b></summary>
+<summary><b>Hard  #8</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -207,6 +207,7 @@
 |41. [First Missing Positive](/Hard/First_missing_positive/Solution.cs)| 59.81 | 65.83 |
 |135. [Candy](/Hard/Candy/Solution.cs)| 91.7 | 91.7 |
 |321. [Create Maximum Number](/Hard/Create_maximum_number/Solution.cs)| 25.00 | 8.33 |
+|480. [Sliding Window Median](/Hard/Sliding_window_median/Solution.cs)| 6.45 | 67.74 |
 |502. [IPO](/Hard/Ipo/Solution.cs)| 44.85 | 74.26 |
 |1095. [Find in Mountain Array](/Hard/Find_in_mountain_array/Solution.cs)| 41.18 | 100 |
 
