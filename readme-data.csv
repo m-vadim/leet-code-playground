@@ -189,3 +189,4 @@ id, name, complexity, runtime, memory
 2641, "Cousins in Binary Tree II", Medium, 100, 55.56
 480, "Sliding Window Median", Hard, 6.45, 67.74
 951, "Flip Equivalent Binary Trees", Medium, 80, 83.72
+239, "Sliding Window Maximum", Hard, 99.01, 30.94
