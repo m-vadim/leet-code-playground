@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #130</b></summary>
+<summary><b>Medium  #131</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -142,6 +142,7 @@
 |930. [Binary Subarrays With Sum](/Medium/Binary_subarrays_with_sum/Solution.cs)| 7.69 | 83.33 |
 |945. [Minimum Increment to Make Array Unique](/Medium/Minimum_increment_to_make_array_unique/Solution.cs)| 37.50 | 100 |
 |950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs)| 84.21 | 21.05 |
+|951. [Flip Equivalent Binary Trees](/Medium/Flip_equivalent_binary_trees/Solution.cs)| 80 | 83.72 |
 |986. [Interval List Intersections](/Medium/Interval_list_intersections/Solution.cs)| 99.46 | 88.59 |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs)| 85.05 | 54.21 |
 |1079. [Letter Tile Possibilities](/Medium/Letter_tile_possibilities/Solution.cs)| 60.87 | 93.48 |
