@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #131</b></summary>
+<summary><b>Medium  #132</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -185,6 +185,7 @@
 |2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs)| 100 | 77.78 |
 |2487. [Remove Nodes From Linked List](/Medium/Remove_nodes_from_linked_list/Solution.cs)| 78.87 | 22.53 |
 |2491. [Divide Players Into Teams of Equal Skill](/Medium/Divide_players_into_teams_of_equal_skill/solution.py)| 46.90 | 31.15 |
+|2501. [Longest Square Streak in an Array](/Medium/Longest_square_streak_in_an_array/Solution.cs)| 100 | 100 |
 |2583. [Kth Largest Sum in a Binary Tree](/Medium/Kth_largest_sum_in_a_binary_tree/Solution.cs)| 100 | 45.83 |
 |2641. [Cousins in Binary Tree II](/Medium/Cousins_in_binary_tree_ii/Solution.cs)| 100 | 55.56 |
 |2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs)| 94 | 98 |
