@@ -192,3 +192,4 @@ id, name, complexity, runtime, memory
 239, "Sliding Window Maximum", Hard, 99.01, 30.94
 2501, "Longest Square Streak in an Array", Medium, 100, 100
 1109, "Corporate Flight Bookings", Medium, 100, 18
+1094, "Car Pooling", Medium, 81.82, 87.50
