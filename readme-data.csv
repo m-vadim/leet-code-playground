@@ -191,3 +191,4 @@ id, name, complexity, runtime, memory
 951, "Flip Equivalent Binary Trees", Medium, 80, 83.72
 239, "Sliding Window Maximum", Hard, 99.01, 30.94
 2501, "Longest Square Streak in an Array", Medium, 100, 100
+1109, "Corporate Flight Bookings", Medium, 100, 18
