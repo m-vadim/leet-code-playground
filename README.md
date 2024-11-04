@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #134</b></summary>
+<summary><b>Medium  #135</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -198,6 +198,7 @@
 |2966. [Divide Array Into Arrays With Max Difference](/Medium/Divide_array_into_arrays_with_max_difference/Solution.cs)| 43.13 | 20.63 |
 |2971. [Find Polygon With the Largest Perimeter](/Medium/Find_polygon_with_the_largest_perimeter/Solution.cs)| 95.6 | 15.38 |
 |3016. [Minimum Number of Pushes to Type Word II](/Medium/Minimum_number_of_pushes_to_type_word_ii/Solution.cs)| 100.00 | 18.18 |
+|3163. [String Compression III](/Medium/String_compression_iii/Solution.cs)| 100 | 63.64 |
 
 </details>
 

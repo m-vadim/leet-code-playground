@@ -193,3 +193,4 @@ id, name, complexity, runtime, memory
 2501, "Longest Square Streak in an Array", Medium, 100, 100
 1109, "Corporate Flight Bookings", Medium, 100, 18
 1094, "Car Pooling", Medium, 81.82, 87.50
+3163, "String Compression III", Medium, 100, 63.64
