@@ -194,3 +194,4 @@ id, name, complexity, runtime, memory
 1109, "Corporate Flight Bookings", Medium, 100, 18
 1094, "Car Pooling", Medium, 81.82, 87.50
 3163, "String Compression III", Medium, 100, 63.64
+2064, "Minimized Maximum of Products Distributed to Any Store", Medium, 100, 100

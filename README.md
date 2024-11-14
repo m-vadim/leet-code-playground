@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #135</b></summary>
+<summary><b>Medium  #136</b></summary>
 
 |Problem|Runtime(%)|Memory(%)|
 |--|--|--|
@@ -173,6 +173,7 @@
 |1930. [Unique Length-3 Palindromic Subsequences](/Medium/Unique_length-3_palindromic_subsequences/Solution.cs)| 100 | 100 |
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs)| 72 | 68 |
 |2058. [Find the Minimum and Maximum Number of Nodes Between Critical Points](/Medium/Find_the_minimum_and_maximum_number_of_nodes_between_critical_points/Solution.cs)| 91.67 | 91.67 |
+|2064. [Minimized Maximum of Products Distributed to Any Store](/Medium/Minimized_maximum_of_products_distributed_to_any_store/Solution.cs)| 100 | 100 |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs)| 98.61 | 38.05 |
 |2096. [Step-By-Step Directions From a Binary Tree Node to Another](/Medium/Step-by-step_directions_from_a_binary_tree_node_to_another/Solution.cs)| 87.5 | 62.5 |
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)| 47.6 | 98.4 |
