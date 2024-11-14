@@ -28,7 +28,7 @@ function RenderSection {
 
     Add-Content -Path $readme -Value "`n<details>"
     Add-Content -Path $readme -Value "<summary><b>$($title)  #$($solutions.Count)</b></summary>"
-    Add-Content -Path $readme -Value "`n|Problem|Runtime(%)|Memory(%)|"
+    Add-Content -Path $readme -Value "`n|Problem|Runtime|Memory|"
     Add-Content -Path $readme -Value "`|--|--|--|"
     foreach($solution in $solutions | Sort-Object @{e={$_.Id -as [int]}}) {
         $solution_path = ConvertToPath $solution.name $solution.complexity "Solution.cs"
@@ -39,9 +39,26 @@ function RenderSection {
             }
         }
 
-        Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path))| $($solution.runtime) | $($solution.memory) |"
+        $runtime = WriteMetrics $solution.runtime "ms"
+        $memory = WriteMetrics $solution.memory "MB"
+
+        Add-Content -Path $readme -Value "|$($solution.Id). [$($solution.name)](/$($solution_path))| $($runtime) | $($memory) |"
     }
+
     Add-Content -Path $readme -Value "`n</details>"
+}
+
+function WriteMetrics {
+    param(
+        [String] $Value,
+        [String] $Unit
+    )
+
+    if ($Value -eq "") {
+        return ""
+    } 
+
+    return "$($Value) $($Unit)"
 }
 
 function ConvertToPath {

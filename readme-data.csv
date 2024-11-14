@@ -1,197 +1,197 @@
 id, name, complexity, runtime, memory
-1, "Two Sum", Easy, 67.26, 42.44
-2, "Add Two Numbers", Medium, 93.51, 68.17
-3, "Longest Substring Without Repeating Characters", Medium, 39.18, 58.86
-4, "Median of Two Sorted Arrays", Hard, 93.30, 69.77
-5, "Longest Palindromic Substring", Medium, 44.30, 65.33
-6, "Zigzag Conversion", Medium, 93.4, 77.81
-7, "Reverse Integer", Medium, 71.22, 72.83
-8, "String to Integer (atoi)", Medium, 50.32, 74.75
-9, "Palindrome Number", Easy, 47.54, 95.65
-11, "Container With Most Water", Medium, 99.97, 65.59
-12, "Integer to Roman", Medium, 65.4, 53.06
-13, "Roman to Integer", Easy, 96.24, 71.49
-14, "Longest Common Prefix", Easy, 35.57, 74.33
-15, "3Sum", Medium, 38.6, 95.73
-17, "Letter Combinations of a Phone Number", Medium, 24.65, 87.9
-19, "Remove Nth Node From End of List", Medium, 85.26, 79.96
-20, "Valid Parentheses", Easy, 93.72, 16.65
-21, "Merge Two Sorted Lists", Easy, 90.22, 79.17
-22, "Generate Parentheses", Medium, 81.8, 38.80
-26, "Remove Duplicates from Sorted Array", Easy, 68.42, 32.7
-27, "Remove Element", Easy, 79.75, 54.59
-28, "Find the Index of the First Occurrence in a String", Easy, 35.65, 59.93
-29, "Divide Two Integers", Medium, 87.20, 18.45
-34, "Find First and Last Position of Element in Sorted Array", Medium, 64.79, 19.95
-36, "Valid Sudoku", Medium, 96.89, 80.88
-38, "Count and Say", Medium, 78.92, 43.87
-41, "First Missing Positive", Hard, 59.81, 65.83
-46, "Permutations", Medium, 76, 15.8
-48, "Rotate Image", Medium, 87.90, 24.84
-49, "Group Anagrams", Medium, 99.84, 54.77
-53, "Maximum Subarray", Medium, 98.24, 94.87
-54, "Spiral Matrix", Medium, 63.1, 69.18
-61, "Rotate List", Medium, 82.72, 64.05
-62, "Unique Paths", Medium, 94.99, 80.87
-63, "Unique Paths II", Medium, 86.72, 55.28
-66, "Plus One", Easy, 76.84, 72.62
-67, "Add Binary", Easy, 57.49, 55.99
-69, "Sqrt(x)", Easy, 81.47, 36.86
-70, "Climbing Stairs", Easy, 82.33, 11.25
-71, "Simplify Path", Medium, 75.51, 29.9
-75, "Sort Colors", Medium, 67.48, 86.96
-78, "Subsets", Medium, 39.44, 88.91
-80, "Remove Duplicates from Sorted Array II", Medium, 86.31, 25.22
-88, "Merge Sorted Array", Easy, 64.63, 52.22
-92, "Reverse Linked List 2", Medium, 95.25, 81.51
-100, "Same Tree", Easy, 76.82, 25.43
-104, "Maximum Depth of Binary Tree", Easy, 69.76, 76.20
-118, "Pascals Triangle", Easy, 99.67, 43.97
-121, "Best Time to Buy and Sell Stock", Easy, 93.48, 74.97
-125, "Valid Palindrome", Easy, 82.5, 74.8
-129, "Sum Root to Leaf Numbers", Medium, 65.27, 62.72
-131, "Palindrome Partitioning", Medium, 23.69, 38.8
-135, "Candy", Hard, 91.7, 91.7
-141, "Linked List Cycle", Easy, 87.84, 68.78
-143, "Reorder List", Medium, 91.77, 95.15
-146, "LRU Cache", Medium, 38.56, 80.39
-150, "Evaluate Reverse Polish Notation", Medium, 89.19, 38.16
-151, "Reverse Words in a String", Medium, 90.79, 71.85
-155, "Min Stack", Medium, 81.94, 24.84
-165, "Compare Version Numbers", Medium, 96.63, 37.74
-189, "Rotate Array", Medium, 53.41, 50.77
-205, "Isomorphic Strings", Easy, 89.28, 85.83
-206, "Reverse Linked List", Easy, 98.97, 83.91
-208, "Implement Trie", Medium, 67.72, 94.42
-211, "Design Add and Search Words Data Structure", Medium, 90.66, 74.45
-215, "Kth Largest Element in an Array", Medium, 67.8, 54.78
-225, "Implement Stack using Queues", Easy, 94.84, 54.52
-229, "Majority Element 2", Medium, 98.72, 52.56
-232, "Implement Queue using Stacks", Easy, 66.73, 13.38
-238, "Product of Array Except Self", Medium, 74.67, 43.96
-258, "Add Digits", Easy, 90.13, 43.31
-300, "Longest Increasing Subsequence", Medium, 78.29, 17.44
-316, "Remove Duplicate Letters", Medium, 74.36, 60.26
-321, "Create Maximum Number", Hard, 25.00, 8.33
-328, "Odd Even Linked List", Medium, 86.71, 46.4
-334, "Increasing Triplet Subsequence", Medium, 70.61, 85.16
-341, "Flatten Nested List Iterator", Medium, 96.83, 65.08
-345, "Reverse Vowels of a String", Easy, 85.11, 96.7
-347, "Top K Frequent Elements", Medium, 74.73, 54.83
-389, "Find the Difference", Easy, 83.11, 95.31
-392, "Is Subsequence", Easy, 89, 76.17
-394, "Decode string", Medium, 40.85, 42.98
-443, "String Compression", Medium, 40.88, 79.48
-451, "Sort Characters By Frequency", Medium, 95.53, 75.98
-502, "IPO", Hard, 44.85, 74.26
-513, "Find Bottom Left Tree Value", Medium, 46.15, 82.69
-543, "Diameter of Binary Tree", Easy, 25.59, 27.43
-623, "Add One Row to Tree", Medium, 59.26, 11.11
-643, "Maximum Average Subarray 1", Easy, 55.7, 78.38
-648, "Replace Words", Medium, 6.12, 61.22
-649, "Dota2 Senate", Medium, 99.65, 92.98
-705, "Design HashSet", Easy, 41.45, 31.58
-724, "Find Pivot Index", Easy, 97.95, 38.31
-735, "Asteroid Collision", Medium, 83.33, 62.91
-739, "Daily Temperatures", Medium, 91.77, 97.10
-746, "Min Cost Climbing Stairs", Easy, 73.65, 67.81
-787, "Cheapest Flights Within K Stops", Medium, 98.67, 94.67
-791, "Custom Sort String", Medium, 84.72, 45.84
-792, "Number of Matching Subsequences", Medium, 91.3, 26.9
-844, "Backspace String Compare", Easy, 87.54, 93.31
-880, "Decoded String at Index", Medium, 77.78, 83.3
-901, "Online Stock Span", Medium, 56.48, 97.22
-905, "Sort Array By Parity", Easy, 91.68, 83.29
-912, "Sort an Array", Medium, 80.75, 25.00
-930, "Binary Subarrays With Sum", Medium, 7.69, 83.33
-938, "Range Sum of BST", Easy, 28.39, 21.35
-945, "Minimum Increment to Make Array Unique", Medium, 37.50, 100
-950, "Reveal Cards In Increasing Order", Medium, 84.21, 21.05
-989, "Add to Array-Form of Integer", Easy, 15.41, 87.26
-1002, "Find Common Characters", Easy, 79.12, 89.01
-1026, "Maximum Difference Between Node and Ancestor", Medium, 85.05, 54.21
-1071, "Greatest Common Divisor of Strings", Easy, 89.49, 35.43
-1079, "Letter Tile Possibilities", Medium, 60.87, 93.48
-1095, "Find in Mountain Array", Hard, 41.18, 100
-1122, "Relative Sort Array", Easy, 44.32, 63.64
-1137, "N-th Tribonacci Number", Easy, 99.14, 32.76
-1143, "Longest Common Subsequence", Medium, 28.82, 47.00
-1219, "Path with Maximum Gold", Medium, 96.15, 80.77
-1268, "Search Suggestions System", Medium, 50, 34.95
-1291, "Sequential Digits", Medium, 100, 42
-1325, "Delete Leaves With a Given Value", Medium, 71.15, 100
-1396, "Design Underground System", Medium, 100, 19.44
-1431, "Kids With the Greatest Number of Candies", Easy, 33.1, 67.31
-1436, "Destination City", Easy, 96.26, 87.85
-1456, "Maximum Number of Vowels in a Substring of Given Length", Medium, 77.84, 48.2
-1457, "Pseudo-Palindromic Paths in a Binary Tree", Medium, 50.00, 62.50
-1470, "Shuffle the Array", Easy, 35.70, 16.77
-1481, "Least Number of Unique Integers after K Removals", Medium, 42.42, 81.2
-1491, "Average Salary Excluding the Minimum and Maximum Salary", Easy, 83.88, 37.83
-1523, "Count Odd Numbers in an Interval Range", Easy, 95.98, 22.86
-1609, "Even Odd Tree", Medium, 51.52, 36.36
-1647, "Minimum Deletions to Make Character Frequencies Unique", Medium, 71.1, 53.62
-1657, "Determine if Two Strings Are Close", Medium, 84.3, 78.99
-1662, "Check If Two String Arrays are Equivalent", Easy, 89.50, 90.87
-1673, "Find the Most Competitive Subsequence", Medium, 60.61, 57.58
-1679, "Max Number of K-Sum Pairs", Medium, 76.55, 34.88
-1743, "Restore the Array From Adjacent Pairs", Medium, 100, 50
-1750, "Minimum Length of String After Deleting Similar Ends", Medium, 75.00, 75.00
-1754, "Largest Merge Of Two Strings", Medium, 63.64, 100
-1822, "Sign of the Product of an Array", Easy, 38.78, 26.62
-1930, "Unique Length-3 Palindromic Subsequences", Medium, 100, 100
-1980, "Find Unique Binary String", Medium, 72, 68
-2095, "Delete the Middle Node of a Linked List", Medium, 98.61, 38.05
-2125, "Number of Laser Beams in a Bank", Medium, 47.6, 98.4
-2130, "Maximum Twin Sum of a Linked List", Medium, 83.19, 49.2
-2149, "Rearrange Array Elements by Sign", Medium, 92.86, 36.74
-2181, "Merge Nodes in Between Zeros", Medium, 62.96, 81.48
-2225, "Find Players With Zero or One Losses", Medium, 53.01, 15.66
-2352, "Equal Row and Column Pairs", Medium, 98.57, 57.43
-2390, "Removing Stars From a String", Medium, 81.13, 69.81
-2405, "Optimal Partition of String", Medium, 99.6, 50.39
-2483, "Minimum Penalty for a Shop", Medium, 100, 77.78
-2487, "Remove Nodes From Linked List", Medium, 78.87, 22.53
-2785, "Sort Vowels in a String", Medium, 94, 98
-2816, "Double a Number Represented as a Linked List", Medium, 35.48, 41.94
-2849, "Determine if a Cell Is Reachable at a Given Time", Medium, 92.38, 91.43
-2870, "Minimum Number of Operations to Make Array Empty", Medium, 36.36, 27.27
-2966, "Divide Array Into Arrays With Max Difference", Medium, 43.13, 20.63
-2971, "Find Polygon With the Largest Perimeter", Medium, 95.6, 15.38
-2058, "Find the Minimum and Maximum Number of Nodes Between Critical Points", Medium, 91.67, 91.67
-1717, "Maximum Score From Removing Substrings", Medium, 90.91, 81.82
-2196, "Create Binary Tree From Descriptions", Medium, 100, 100
-2096, "Step-By-Step Directions From a Binary Tree Node to Another", Medium, 87.5, 62.5
-1110, "Delete Nodes And Return Forest", Medium, 21.98, 71.43
-1653, "Minimum Deletions to Make String Balanced", Medium, 50.00, 28.57
-3016, "Minimum Number of Pushes to Type Word II", Medium, 100.00, 18.18
-40, "Combination Sum II", Medium, 84.38, 82.47
-592, "Fraction Addition and Subtraction", Medium, 100.00, 71.43
-986, "Interval List Intersections", Medium, 99.46, 88.59
-33, "Search in Rotated Sorted Array", Medium, 92.35, 65.58
-2807, "Insert Greatest Common Divisors in Linked List", Medium, 39.87, 5.7
-367, "Valid Perfect Square", Easy, 51.05, 99.77
-539, "Minimum Time Difference", Medium, 74.36, 69.23
-133, "Clone Graph", Medium, 15.99, 87.11
-207, "Course Schedule", Medium, 5.12, 5.12
-210, "Course Schedule II", Medium, 5.02, 5.02
-179, "Largest Number", Medium, 81.74, 87.21
-37, "Sudoku Solver", Hard, 40.66, 73.86
-729, "My Calendar I", Medium, 14.29, 44.64
-731, "My Calendar II", Medium, 25.00, 35.00
-1381, "Design a Stack With Increment Operation", Medium, 66.18, 75.00
-1331, "Rank Transform of an Array", Easy, 20.35, 89.62
-43, "Multiply Strings", Medium, 8.35, 23.41
-101, "Symmetric Tree", Easy, 53.70, 64.94
-2491, "Divide Players Into Teams of Equal Skill", Medium, 46.90, 31.15
-1405, "Longest Happy String", Medium, 37.04, 48.15
-2583, "Kth Largest Sum in a Binary Tree", Medium, 100, 45.83
-2641, "Cousins in Binary Tree II", Medium, 100, 55.56
-480, "Sliding Window Median", Hard, 6.45, 67.74
-951, "Flip Equivalent Binary Trees", Medium, 80, 83.72
-239, "Sliding Window Maximum", Hard, 99.01, 30.94
-2501, "Longest Square Streak in an Array", Medium, 100, 100
-1109, "Corporate Flight Bookings", Medium, 100, 18
-1094, "Car Pooling", Medium, 81.82, 87.50
-3163, "String Compression III", Medium, 100, 63.64
-2064, "Minimized Maximum of Products Distributed to Any Store", Medium, 100, 100
+1, "Two Sum", Easy,,
+2, "Add Two Numbers", Medium,,
+3, "Longest Substring Without Repeating Characters", Medium,,
+4, "Median of Two Sorted Arrays", Hard,,
+5, "Longest Palindromic Substring", Medium,,
+6, "Zigzag Conversion", Medium,,
+7, "Reverse Integer", Medium,,
+8, "String to Integer (atoi)", Medium,,
+9, "Palindrome Number", Easy,,
+11, "Container With Most Water", Medium,,
+12, "Integer to Roman", Medium,,
+13, "Roman to Integer", Easy,,
+14, "Longest Common Prefix", Easy,,
+15, "3Sum", Medium,,
+17, "Letter Combinations of a Phone Number", Medium,,
+19, "Remove Nth Node From End of List", Medium,,
+20, "Valid Parentheses", Easy,,
+21, "Merge Two Sorted Lists", Easy,,
+22, "Generate Parentheses", Medium,,
+26, "Remove Duplicates from Sorted Array", Easy,,
+27, "Remove Element", Easy,,
+28, "Find the Index of the First Occurrence in a String", Easy,,
+29, "Divide Two Integers", Medium,,
+34, "Find First and Last Position of Element in Sorted Array", Medium,,
+36, "Valid Sudoku", Medium,,
+38, "Count and Say", Medium,,
+41, "First Missing Positive", Hard,,
+46, "Permutations", Medium,,
+48, "Rotate Image", Medium,,
+49, "Group Anagrams", Medium,,
+53, "Maximum Subarray", Medium,,
+54, "Spiral Matrix", Medium,,
+61, "Rotate List", Medium,,
+62, "Unique Paths", Medium,,
+63, "Unique Paths II", Medium,,
+66, "Plus One", Easy,,
+67, "Add Binary", Easy,,
+69, "Sqrt(x)", Easy,,
+70, "Climbing Stairs", Easy,,
+71, "Simplify Path", Medium,,
+75, "Sort Colors", Medium,,
+78, "Subsets", Medium,,
+80, "Remove Duplicates from Sorted Array II", Medium,,
+88, "Merge Sorted Array", Easy,,
+92, "Reverse Linked List 2", Medium,,
+100, "Same Tree", Easy,,
+104, "Maximum Depth of Binary Tree", Easy,,
+118, "Pascals Triangle", Easy,,
+121, "Best Time to Buy and Sell Stock", Easy,,
+125, "Valid Palindrome", Easy,,
+129, "Sum Root to Leaf Numbers", Medium,,
+131, "Palindrome Partitioning", Medium,,
+135, "Candy", Hard,,
+141, "Linked List Cycle", Easy,,
+143, "Reorder List", Medium,,
+146, "LRU Cache", Medium,,
+150, "Evaluate Reverse Polish Notation", Medium,,
+151, "Reverse Words in a String", Medium,,
+155, "Min Stack", Medium,,
+165, "Compare Version Numbers", Medium,,
+189, "Rotate Array", Medium,,
+205, "Isomorphic Strings", Easy,,
+206, "Reverse Linked List", Easy,,
+208, "Implement Trie", Medium,,
+211, "Design Add and Search Words Data Structure", Medium,,
+215, "Kth Largest Element in an Array", Medium,,
+225, "Implement Stack using Queues", Easy,,
+229, "Majority Element 2", Medium,,
+232, "Implement Queue using Stacks", Easy,,
+238, "Product of Array Except Self", Medium,,
+258, "Add Digits", Easy,,
+300, "Longest Increasing Subsequence", Medium,,
+316, "Remove Duplicate Letters", Medium,,
+321, "Create Maximum Number", Hard,,
+328, "Odd Even Linked List", Medium,,
+334, "Increasing Triplet Subsequence", Medium,,
+341, "Flatten Nested List Iterator", Medium,,
+345, "Reverse Vowels of a String", Easy,,
+347, "Top K Frequent Elements", Medium,,
+389, "Find the Difference", Easy,,
+392, "Is Subsequence", Easy,,
+394, "Decode string", Medium,,
+443, "String Compression", Medium,,
+451, "Sort Characters By Frequency", Medium,,
+502, "IPO", Hard,,
+513, "Find Bottom Left Tree Value", Medium,,
+543, "Diameter of Binary Tree", Easy,,
+623, "Add One Row to Tree", Medium,,
+643, "Maximum Average Subarray 1", Easy,,
+648, "Replace Words", Medium,,
+649, "Dota2 Senate", Medium,,
+705, "Design HashSet", Easy,,
+724, "Find Pivot Index", Easy,,
+735, "Asteroid Collision", Medium,,
+739, "Daily Temperatures", Medium,,
+746, "Min Cost Climbing Stairs", Easy,,
+787, "Cheapest Flights Within K Stops", Medium,,
+791, "Custom Sort String", Medium,,
+792, "Number of Matching Subsequences", Medium,,
+844, "Backspace String Compare", Easy,,
+880, "Decoded String at Index", Medium,,
+901, "Online Stock Span", Medium,,
+905, "Sort Array By Parity", Easy,,
+912, "Sort an Array", Medium,,
+930, "Binary Subarrays With Sum", Medium,,
+938, "Range Sum of BST", Easy,,
+945, "Minimum Increment to Make Array Unique", Medium,,
+950, "Reveal Cards In Increasing Order", Medium,,
+989, "Add to Array-Form of Integer", Easy,,
+1002, "Find Common Characters", Easy,,
+1026, "Maximum Difference Between Node and Ancestor", Medium,,
+1071, "Greatest Common Divisor of Strings", Easy,,
+1079, "Letter Tile Possibilities", Medium,,
+1095, "Find in Mountain Array", Hard,,
+1122, "Relative Sort Array", Easy,,
+1137, "N-th Tribonacci Number", Easy,,
+1143, "Longest Common Subsequence", Medium,,
+1219, "Path with Maximum Gold", Medium,,
+1268, "Search Suggestions System", Medium,,
+1291, "Sequential Digits", Medium,,
+1325, "Delete Leaves With a Given Value", Medium,,
+1396, "Design Underground System", Medium,,
+1431, "Kids With the Greatest Number of Candies", Easy,,
+1436, "Destination City", Easy,,
+1456, "Maximum Number of Vowels in a Substring of Given Length", Medium,,
+1457, "Pseudo-Palindromic Paths in a Binary Tree", Medium,,
+1470, "Shuffle the Array", Easy,,
+1481, "Least Number of Unique Integers after K Removals", Medium,,
+1491, "Average Salary Excluding the Minimum and Maximum Salary", Easy,,
+1523, "Count Odd Numbers in an Interval Range", Easy,,
+1609, "Even Odd Tree", Medium,,
+1647, "Minimum Deletions to Make Character Frequencies Unique", Medium,,
+1657, "Determine if Two Strings Are Close", Medium,,
+1662, "Check If Two String Arrays are Equivalent", Easy,,
+1673, "Find the Most Competitive Subsequence", Medium,,
+1679, "Max Number of K-Sum Pairs", Medium,,
+1743, "Restore the Array From Adjacent Pairs", Medium,,
+1750, "Minimum Length of String After Deleting Similar Ends", Medium,,
+1754, "Largest Merge Of Two Strings", Medium,,
+1822, "Sign of the Product of an Array", Easy,,
+1930, "Unique Length-3 Palindromic Subsequences", Medium,,
+1980, "Find Unique Binary String", Medium,,
+2095, "Delete the Middle Node of a Linked List", Medium,,
+2125, "Number of Laser Beams in a Bank", Medium,,
+2130, "Maximum Twin Sum of a Linked List", Medium,,
+2149, "Rearrange Array Elements by Sign", Medium,,
+2181, "Merge Nodes in Between Zeros", Medium,,
+2225, "Find Players With Zero or One Losses", Medium,,
+2352, "Equal Row and Column Pairs", Medium,,
+2390, "Removing Stars From a String", Medium,,
+2405, "Optimal Partition of String", Medium,,
+2483, "Minimum Penalty for a Shop", Medium,,
+2487, "Remove Nodes From Linked List", Medium,,
+2785, "Sort Vowels in a String", Medium,,
+2816, "Double a Number Represented as a Linked List", Medium,,
+2849, "Determine if a Cell Is Reachable at a Given Time", Medium,,
+2870, "Minimum Number of Operations to Make Array Empty", Medium,,
+2966, "Divide Array Into Arrays With Max Difference", Medium,,
+2971, "Find Polygon With the Largest Perimeter", Medium,,
+2058, "Find the Minimum and Maximum Number of Nodes Between Critical Points", Medium,,
+1717, "Maximum Score From Removing Substrings", Medium,,
+2196, "Create Binary Tree From Descriptions", Medium,,
+2096, "Step-By-Step Directions From a Binary Tree Node to Another", Medium,,
+1110, "Delete Nodes And Return Forest", Medium,,
+1653, "Minimum Deletions to Make String Balanced", Medium,,
+3016, "Minimum Number of Pushes to Type Word II", Medium,,
+40, "Combination Sum II", Medium,,
+592, "Fraction Addition and Subtraction", Medium,,
+986, "Interval List Intersections", Medium,,
+33, "Search in Rotated Sorted Array", Medium,,
+2807, "Insert Greatest Common Divisors in Linked List", Medium,,
+367, "Valid Perfect Square", Easy,,
+539, "Minimum Time Difference", Medium,,
+133, "Clone Graph", Medium,,
+207, "Course Schedule", Medium,,
+210, "Course Schedule II", Medium,,
+179, "Largest Number", Medium,,
+37, "Sudoku Solver", Hard,,
+729, "My Calendar I", Medium,,
+731, "My Calendar II", Medium,,
+1381, "Design a Stack With Increment Operation", Medium,,
+1331, "Rank Transform of an Array", Easy,,
+43, "Multiply Strings", Medium,,
+101, "Symmetric Tree", Easy,,
+2491, "Divide Players Into Teams of Equal Skill", Medium,,
+1405, "Longest Happy String", Medium,,
+2583, "Kth Largest Sum in a Binary Tree", Medium,,
+2641, "Cousins in Binary Tree II", Medium,,
+480, "Sliding Window Median", Hard,,
+951, "Flip Equivalent Binary Trees", Medium,,
+239, "Sliding Window Maximum", Hard,,
+2501, "Longest Square Streak in an Array", Medium,,
+1109, "Corporate Flight Bookings", Medium,,
+1094, "Car Pooling", Medium,,
+3163, "String Compression III", Medium,,
+2064, "Minimized Maximum of Products Distributed to Any Store", Medium, 27, 78.8
