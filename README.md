@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #136</b></summary>
+<summary><b>Medium  #137</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -185,6 +185,7 @@
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs)|  |  |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs)|  |  |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs)|  |  |
+|2461. [Maximum Sum of Distinct Subarrays With Length K](/Medium/Maximum_sum_of_distinct_subarrays_with_length_k/Solution.cs)| 16 ms | 67.08 MB |
 |2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs)|  |  |
 |2487. [Remove Nodes From Linked List](/Medium/Remove_nodes_from_linked_list/Solution.cs)|  |  |
 |2491. [Divide Players Into Teams of Equal Skill](/Medium/Divide_players_into_teams_of_equal_skill/solution.py)|  |  |
