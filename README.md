@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #137</b></summary>
+<summary><b>Medium  #138</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -176,6 +176,7 @@
 |2064. [Minimized Maximum of Products Distributed to Any Store](/Medium/Minimized_maximum_of_products_distributed_to_any_store/Solution.cs)| 27 ms | 78.8 MB |
 |2095. [Delete the Middle Node of a Linked List](/Medium/Delete_the_middle_node_of_a_linked_list/Solution.cs)|  |  |
 |2096. [Step-By-Step Directions From a Binary Tree Node to Another](/Medium/Step-by-step_directions_from_a_binary_tree_node_to_another/Solution.cs)|  |  |
+|2109. [Adding Spaces to a String](/Medium/Adding_spaces_to_a_string/Solution.cs)| 6 ms | 83.7 MB |
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)|  |  |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)|  |  |
 |2149. [Rearrange Array Elements by Sign](/Medium/Rearrange_array_elements_by_sign/Solution.cs)|  |  |
