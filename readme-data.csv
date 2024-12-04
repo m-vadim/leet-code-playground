@@ -197,3 +197,4 @@ id, name, complexity, runtime, memory
 2064, "Minimized Maximum of Products Distributed to Any Store", Medium, 27, 78.8
 2461, "Maximum Sum of Distinct Subarrays With Length K", Medium, 16, 67.08
 2109, "Adding Spaces to a String", Medium, 6, 83.7
+2828, "Make String a Subsequence Using Cyclic Increments", Medium, 3, 51.51
