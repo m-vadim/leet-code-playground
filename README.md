@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #139</b></summary>
+<summary><b>Medium  #140</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -192,6 +192,7 @@
 |2491. [Divide Players Into Teams of Equal Skill](/Medium/Divide_players_into_teams_of_equal_skill/solution.py)|  |  |
 |2501. [Longest Square Streak in an Array](/Medium/Longest_square_streak_in_an_array/Solution.cs)|  |  |
 |2583. [Kth Largest Sum in a Binary Tree](/Medium/Kth_largest_sum_in_a_binary_tree/Solution.cs)|  |  |
+|2593. [Find Score of an Array After Marking All Elements](/Medium/Find_score_of_an_array_after_marking_all_elements/Solution.cs)| 608 ms | 65.1 MB |
 |2641. [Cousins in Binary Tree II](/Medium/Cousins_in_binary_tree_ii/Solution.cs)|  |  |
 |2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs)|  |  |
 |2807. [Insert Greatest Common Divisors in Linked List](/Medium/Insert_greatest_common_divisors_in_linked_list/Solution.cs)|  |  |
