@@ -1,7 +1,7 @@
 ## Some of my [leetcode.com](https://leetcode.com) tasks solutions
 
 <details>
-<summary><b>Easy  #51</b></summary>
+<summary><b>Easy  #52</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -56,6 +56,7 @@
 |1523. [Count Odd Numbers in an Interval Range](/Easy/Count_odd_numbers_in_an_interval_range/Solution.cs)|  |  |
 |1662. [Check If Two String Arrays are Equivalent](/Easy/Check_if_two_string_arrays_are_equivalent/Solution.cs)|  |  |
 |1822. [Sign of the Product of an Array](/Easy/Sign_of_the_product_of_an_array/Solution.cs)|  |  |
+|3264. [Final Array State After K Multiplication Operations I](/Easy/Final_array_state_after_k_multiplication_operations_i/Solution.cs)| 5 ms | 50.2 MB |
 
 </details>
 
