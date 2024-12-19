@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #140</b></summary>
+<summary><b>Medium  #141</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -134,6 +134,7 @@
 |731. [My Calendar II](/Medium/My_calendar_ii/Solution.cs)|  |  |
 |735. [Asteroid Collision](/Medium/Asteroid_collision/Solution.cs)|  |  |
 |739. [Daily Temperatures](/Medium/Daily_temperatures/Solution.cs)|  |  |
+|769. [Max Chunks To Make Sorted](/Medium/Max_chunks_to_make_sorted/Solution.cs)| 0 ms | 40.3 MB |
 |787. [Cheapest Flights Within K Stops](/Medium/Cheapest_flights_within_k_stops/Solution.cs)|  |  |
 |791. [Custom Sort String](/Medium/Custom_sort_string/Solution.cs)|  |  |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs)|  |  |
