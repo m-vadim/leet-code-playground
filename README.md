@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #141</b></summary>
+<summary><b>Medium  #142</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -89,6 +89,7 @@
 |49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs)|  |  |
 |53. [Maximum Subarray](/Medium/Maximum_subarray/Solution.cs)|  |  |
 |54. [Spiral Matrix](/Medium/Spiral_matrix/Solution.cs)|  |  |
+|55. [Jump Game](/Medium/Jump_game/Solution.cs)| 2 ms | 60.18 MB |
 |61. [Rotate List](/Medium/Rotate_list/Solution.cs)|  |  |
 |62. [Unique Paths](/Medium/Unique_paths/Solution.cs)|  |  |
 |63. [Unique Paths II](/Medium/Unique_paths_ii/Solution.cs)|  |  |

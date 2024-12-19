@@ -201,3 +201,4 @@ id, name, complexity, runtime, memory
 2593, "Find Score of an Array After Marking All Elements", Medium, 608, 65.1
 3264, "Final Array State After K Multiplication Operations I", Easy, 5, 50.2
 769, "Max Chunks To Make Sorted", Medium, 0, 40.3
+55, "Jump Game", Medium, 2, 60.18
