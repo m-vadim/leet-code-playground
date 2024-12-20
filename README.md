@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #142</b></summary>
+<summary><b>Medium  #143</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -189,6 +189,7 @@
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs)|  |  |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs)|  |  |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs)|  |  |
+|2415. [Reverse Odd Levels of Binary Tree](/Medium/Reverse_odd_levels_of_binary_tree/Solution.cs)| 6 ms | 64.87 MB |
 |2461. [Maximum Sum of Distinct Subarrays With Length K](/Medium/Maximum_sum_of_distinct_subarrays_with_length_k/Solution.cs)| 16 ms | 67.08 MB |
 |2483. [Minimum Penalty for a Shop](/Medium/Minimum_penalty_for_a_shop/Solution.cs)|  |  |
 |2487. [Remove Nodes From Linked List](/Medium/Remove_nodes_from_linked_list/Solution.cs)|  |  |
