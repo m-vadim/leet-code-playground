@@ -203,4 +203,5 @@ id, name, complexity, runtime, memory
 769, "Max Chunks To Make Sorted", Medium, 0, 40.3
 55, "Jump Game", Medium, 2, 60.18
 2415, "Reverse Odd Levels of Binary Tree", Medium, 6, 64.87
+1769, "Minimum Number of Operations to Move All Balls to Each Box", Medium, 3, 50.7
 

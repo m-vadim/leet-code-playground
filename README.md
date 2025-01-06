@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #143</b></summary>
+<summary><b>Medium  #144</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -173,6 +173,7 @@
 |1743. [Restore the Array From Adjacent Pairs](/Medium/Restore_the_array_from_adjacent_pairs/Solution.cs)|  |  |
 |1750. [Minimum Length of String After Deleting Similar Ends](/Medium/Minimum_length_of_string_after_deleting_similar_ends/Solution.cs)|  |  |
 |1754. [Largest Merge Of Two Strings](/Medium/Largest_merge_of_two_strings/Solution.cs)|  |  |
+|1769. [Minimum Number of Operations to Move All Balls to Each Box](/Medium/Minimum_number_of_operations_to_move_all_balls_to_each_box/Solution.cs)| 3 ms | 50.7 MB |
 |1930. [Unique Length-3 Palindromic Subsequences](/Medium/Unique_length-3_palindromic_subsequences/Solution.cs)|  |  |
 |1980. [Find Unique Binary String](/Medium/Find_unique_binary_string/Solution.cs)|  |  |
 |2058. [Find the Minimum and Maximum Number of Nodes Between Critical Points](/Medium/Find_the_minimum_and_maximum_number_of_nodes_between_critical_points/Solution.cs)|  |  |
