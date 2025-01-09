@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #144</b></summary>
+<summary><b>Medium  #145</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -96,6 +96,7 @@
 |71. [Simplify Path](/Medium/Simplify_path/Solution.cs)|  |  |
 |75. [Sort Colors](/Medium/Sort_colors/Solution.cs)|  |  |
 |78. [Subsets](/Medium/Subsets/Solution.cs)|  |  |
+|79. [Word Search](/Medium/Word_search/Solution.cs)| 173 ms | 43.49 MB |
 |80. [Remove Duplicates from Sorted Array II](/Medium/Remove_duplicates_from_sorted_array_ii/Solution.cs)|  |  |
 |92. [Reverse Linked List 2](/Medium/Reverse_linked_list_2/Solution.cs)|  |  |
 |129. [Sum Root to Leaf Numbers](/Medium/Sum_root_to_leaf_numbers/Solution.cs)|  |  |
