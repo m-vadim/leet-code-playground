@@ -214,13 +214,14 @@
 </details>
 
 <details>
-<summary><b>Hard  #9</b></summary>
+<summary><b>Hard  #10</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
 |4. [Median of Two Sorted Arrays](/Hard/Median_of_two_sorted_arrays/Solution.cs)|  |  |
 |37. [Sudoku Solver](/Hard/Sudoku_solver/Solution.cs)|  |  |
 |41. [First Missing Positive](/Hard/First_missing_positive/Solution.cs)|  |  |
+|42. [Trapping Rain Water](/Hard/Trapping_rain_water/Solution.cs)| 0 ms | 46.71 MB |
 |135. [Candy](/Hard/Candy/Solution.cs)|  |  |
 |239. [Sliding Window Maximum](/Hard/Sliding_window_maximum/Solution.cs)|  |  |
 |321. [Create Maximum Number](/Hard/Create_maximum_number/Solution.cs)|  |  |

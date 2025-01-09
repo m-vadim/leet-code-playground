@@ -205,4 +205,5 @@ id, name, complexity, runtime, memory
 2415, "Reverse Odd Levels of Binary Tree", Medium, 6, 64.87
 1769, "Minimum Number of Operations to Move All Balls to Each Box", Medium, 3, 50.7
 79, "Word Search", Medium, 173, 43.49
+42, "Trapping Rain Water", Hard, 0, 46.71
 
