@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #145</b></summary>
+<summary><b>Medium  #146</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -155,6 +155,7 @@
 |1110. [Delete Nodes And Return Forest](/Medium/Delete_nodes_and_return_forest/Solution.cs)|  |  |
 |1143. [Longest Common Subsequence](/Medium/Longest_common_subsequence/Solution.cs)|  |  |
 |1219. [Path with Maximum Gold](/Medium/Path_with_maximum_gold/Solution.cs)|  |  |
+|1267. [Count Servers that Communicate](/Medium/Count_servers_that_communicate/Solution.cs)| 3 ms | 59.5 MB |
 |1268. [Search Suggestions System](/Medium/Search_suggestions_system/Solution.cs)|  |  |
 |1291. [Sequential Digits](/Medium/Sequential_digits/Solution.cs)|  |  |
 |1325. [Delete Leaves With a Given Value](/Medium/Delete_leaves_with_a_given_value/Solution.cs)|  |  |

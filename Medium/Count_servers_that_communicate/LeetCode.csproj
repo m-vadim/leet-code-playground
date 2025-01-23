@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>LeetCode</RootNamespace>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.4.1"/>
+		<PackageReference Include="NUnit" Version="3.13.3"/>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="leetcode word search\**"/>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Remove="leetcode word search\**"/>
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Remove="leetcode word search\**"/>
+	</ItemGroup>
+
+</Project>
