@@ -207,4 +207,4 @@ id, name, complexity, runtime, memory
 79, "Word Search", Medium, 173, 43.49
 42, "Trapping Rain Water", Hard, 0, 46.71
 1267, "Count Servers that Communicate", Medium, 3, 59.5
-
+1726, "Tuple with Same Product", Medium, 74, 64.83

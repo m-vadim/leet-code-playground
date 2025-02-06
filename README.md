@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #146</b></summary>
+<summary><b>Medium  #147</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -172,6 +172,7 @@
 |1673. [Find the Most Competitive Subsequence](/Medium/Find_the_most_competitive_subsequence/Solution.cs)|  |  |
 |1679. [Max Number of K-Sum Pairs](/Medium/Max_number_of_k-sum_pairs/Solution.cs)|  |  |
 |1717. [Maximum Score From Removing Substrings](/Medium/Maximum_score_from_removing_substrings/Solution.cs)|  |  |
+|1726. [Tuple with Same Product](/Medium/Tuple_with_same_product/Solution.cs)| 74 ms | 64.83 MB |
 |1743. [Restore the Array From Adjacent Pairs](/Medium/Restore_the_array_from_adjacent_pairs/Solution.cs)|  |  |
 |1750. [Minimum Length of String After Deleting Similar Ends](/Medium/Minimum_length_of_string_after_deleting_similar_ends/Solution.cs)|  |  |
 |1754. [Largest Merge Of Two Strings](/Medium/Largest_merge_of_two_strings/Solution.cs)|  |  |
