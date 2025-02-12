@@ -209,3 +209,4 @@ id, name, complexity, runtime, memory
 1267, "Count Servers that Communicate", Medium, 3, 59.5
 1726, "Tuple with Same Product", Medium, 74, 64.83
 1910, "Remove All Occurrences of a Substring", Medium, 10, 40.05
+2342, "Max Sum of a Pair With Equal Sum of Digits", Medium, 12, 71.57

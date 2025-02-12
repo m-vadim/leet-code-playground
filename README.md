@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #148</b></summary>
+<summary><b>Medium  #149</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -191,6 +191,7 @@
 |2181. [Merge Nodes in Between Zeros](/Medium/Merge_nodes_in_between_zeros/Solution.cs)|  |  |
 |2196. [Create Binary Tree From Descriptions](/Medium/Create_binary_tree_from_descriptions/Solution.cs)|  |  |
 |2225. [Find Players With Zero or One Losses](/Medium/Find_players_with_zero_or_one_losses/Solution.cs)|  |  |
+|2342. [Max Sum of a Pair With Equal Sum of Digits](/Medium/Max_sum_of_a_pair_with_equal_sum_of_digits/Solution.cs)| 12 ms | 71.57 MB |
 |2352. [Equal Row and Column Pairs](/Medium/Equal_row_and_column_pairs/Solution.cs)|  |  |
 |2390. [Removing Stars From a String](/Medium/Removing_stars_from_a_string/Solution.cs)|  |  |
 |2405. [Optimal Partition of String](/Medium/Optimal_partition_of_string/Solution.cs)|  |  |
