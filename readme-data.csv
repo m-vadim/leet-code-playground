@@ -212,3 +212,4 @@ id, name, complexity, runtime, memory
 2342, "Max Sum of a Pair With Equal Sum of Digits", Medium, 12, 71.57
 3066, "Minimum Operations to Exceed Threshold Value II", Medium, 460, 79.14
 1261, "Find Elements in a Contaminated Binary Tree", Medium, 14, 66.64
+2161, "Partition Array According to Given Pivot", Medium, 3, 89.4

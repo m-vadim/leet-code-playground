@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #151</b></summary>
+<summary><b>Medium  #152</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -189,6 +189,7 @@
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)|  |  |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)|  |  |
 |2149. [Rearrange Array Elements by Sign](/Medium/Rearrange_array_elements_by_sign/Solution.cs)|  |  |
+|2161. [Partition Array According to Given Pivot](/Medium/Partition_array_according_to_given_pivot/Solution.cs)| 3 ms | 89.4 MB |
 |2181. [Merge Nodes in Between Zeros](/Medium/Merge_nodes_in_between_zeros/Solution.cs)|  |  |
 |2196. [Create Binary Tree From Descriptions](/Medium/Create_binary_tree_from_descriptions/Solution.cs)|  |  |
 |2225. [Find Players With Zero or One Losses](/Medium/Find_players_with_zero_or_one_losses/Solution.cs)|  |  |
