@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #153</b></summary>
+<summary><b>Medium  #154</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -217,7 +217,8 @@
 |3016. [Minimum Number of Pushes to Type Word II](/Medium/Minimum_number_of_pushes_to_type_word_ii/Solution.cs)|  |  |
 |3066. [Minimum Operations to Exceed Threshold Value II](/Medium/Minimum_operations_to_exceed_threshold_value_ii/Solution.cs)| 460 ms | 79.14 MB |
 |3163. [String Compression III](/Medium/String_compression_iii/Solution.cs)|  |  |
-|3355. [Zero Array Transformation I](/Medium/Zero_array_transformation_i/solution.py)| 7 ms | 88.89 MB |
+|3355. [Zero Array Transformation I](/Medium/Zero_array_transformation_i/Solution.cs)| 7 ms | 88.89 MB |
+|3356. [Zero Array Transformation II](/Medium/Zero_array_transformation_ii/Solution.cs)| 26 ms | 97.88 MB |
 
 </details>
 
