@@ -215,3 +215,4 @@ id, name, complexity, runtime, memory
 2161, "Partition Array According to Given Pivot", Medium, 3, 89.4
 3355, "Zero Array Transformation I", Medium, 7, 88.89
 3356, "Zero Array Transformation II", Medium, 26, 97.88
+2226, "Maximum Candies Allocated to K Children", Medium, 11, 56.75
