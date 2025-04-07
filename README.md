@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #155</b></summary>
+<summary><b>Medium  #156</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -102,6 +102,7 @@
 |129. [Sum Root to Leaf Numbers](/Medium/Sum_root_to_leaf_numbers/Solution.cs)|  |  |
 |131. [Palindrome Partitioning](/Medium/Palindrome_partitioning/Solution.cs)|  |  |
 |133. [Clone Graph](/Medium/Clone_graph/Solution.cs)|  |  |
+|139. [Word Break](/Medium/Word_break/Solution.cs)| 3 ms | 44.97 MB |
 |143. [Reorder List](/Medium/Reorder_list/Solution.cs)|  |  |
 |146. [LRU Cache](/Medium/Lru_cache/Solution.cs)|  |  |
 |150. [Evaluate Reverse Polish Notation](/Medium/Evaluate_reverse_polish_notation/Solution.cs)|  |  |
