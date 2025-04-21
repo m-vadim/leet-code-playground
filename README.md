@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #156</b></summary>
+<summary><b>Medium  #157</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -189,6 +189,7 @@
 |2109. [Adding Spaces to a String](/Medium/Adding_spaces_to_a_string/Solution.cs)| 6 ms | 83.7 MB |
 |2125. [Number of Laser Beams in a Bank](/Medium/Number_of_laser_beams_in_a_bank/Solution.cs)|  |  |
 |2130. [Maximum Twin Sum of a Linked List](/Medium/Maximum_twin_sum_of_a_linked_list/Solution.cs)|  |  |
+|2145. [Count the Hidden Sequences](/Medium/Count_the_hidden_sequences/Solution.cs)| 1 ms | 68.64 MB |
 |2149. [Rearrange Array Elements by Sign](/Medium/Rearrange_array_elements_by_sign/Solution.cs)|  |  |
 |2161. [Partition Array According to Given Pivot](/Medium/Partition_array_according_to_given_pivot/Solution.cs)| 3 ms | 89.4 MB |
 |2181. [Merge Nodes in Between Zeros](/Medium/Merge_nodes_in_between_zeros/Solution.cs)|  |  |

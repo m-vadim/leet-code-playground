@@ -217,3 +217,4 @@ id, name, complexity, runtime, memory
 3356, "Zero Array Transformation II", Medium, 26, 97.88
 2226, "Maximum Candies Allocated to K Children", Medium, 11, 56.75
 139, "Word Break", Medium, 3, 44.97
+2145, "Count the Hidden Sequences", Medium, 1, 68.64
