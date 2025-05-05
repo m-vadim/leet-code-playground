@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #157</b></summary>
+<summary><b>Medium  #158</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -141,6 +141,7 @@
 |787. [Cheapest Flights Within K Stops](/Medium/Cheapest_flights_within_k_stops/Solution.cs)|  |  |
 |791. [Custom Sort String](/Medium/Custom_sort_string/Solution.cs)|  |  |
 |792. [Number of Matching Subsequences](/Medium/Number_of_matching_subsequences/Solution.cs)|  |  |
+|838. [Push Dominoes](/Medium/Push_dominoes/Solution.cs)| 38 ms | 49 MB |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs)|  |  |
 |901. [Online Stock Span](/Medium/Online_stock_span/Solution.cs)|  |  |
 |912. [Sort an Array](/Medium/Sort_an_array/Solution.cs)|  |  |

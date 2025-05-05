@@ -218,3 +218,4 @@ id, name, complexity, runtime, memory
 2226, "Maximum Candies Allocated to K Children", Medium, 11, 56.75
 139, "Word Break", Medium, 3, 44.97
 2145, "Count the Hidden Sequences", Medium, 1, 68.64
+838, "Push Dominoes", Medium, 38, 49
