@@ -219,3 +219,4 @@ id, name, complexity, runtime, memory
 139, "Word Break", Medium, 3, 44.97
 2145, "Count the Hidden Sequences", Medium, 1, 68.64
 838, "Push Dominoes", Medium, 38, 49
+2131, "Longest Palindrome by Concatenating Two Letter Words", Medium, 48, 83
