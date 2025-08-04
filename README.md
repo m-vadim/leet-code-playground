@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #159</b></summary>
+<summary><b>Medium  #160</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -144,6 +144,7 @@
 |838. [Push Dominoes](/Medium/Push_dominoes/Solution.cs)| 38 ms | 49 MB |
 |880. [Decoded String at Index](/Medium/Decoded_string_at_index/Solution.cs)|  |  |
 |901. [Online Stock Span](/Medium/Online_stock_span/Solution.cs)|  |  |
+|904. [Fruit Into Baskets](/Medium/Fruit_into_baskets/Solution.cs)| 31 ms | 53.68 MB |
 |912. [Sort an Array](/Medium/Sort_an_array/Solution.cs)|  |  |
 |930. [Binary Subarrays With Sum](/Medium/Binary_subarrays_with_sum/Solution.cs)|  |  |
 |945. [Minimum Increment to Make Array Unique](/Medium/Minimum_increment_to_make_array_unique/Solution.cs)|  |  |
