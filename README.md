@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #160</b></summary>
+<summary><b>Medium  #161</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -85,6 +85,7 @@
 |40. [Combination Sum II](/Medium/Combination_sum_ii/Solution.cs)|  |  |
 |43. [Multiply Strings](/Medium/Multiply_strings/Solution.cs)|  |  |
 |46. [Permutations](/Medium/Permutations/Solution.cs)|  |  |
+|47. [Permutations II](/Medium/Permutations_ii/Solution.cs)| 2 ms | 49.18 MB |
 |48. [Rotate Image](/Medium/Rotate_image/Solution.cs)|  |  |
 |49. [Group Anagrams](/Medium/Group_anagrams/Solution.cs)|  |  |
 |53. [Maximum Subarray](/Medium/Maximum_subarray/Solution.cs)|  |  |
