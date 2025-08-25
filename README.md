@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #161</b></summary>
+<summary><b>Medium  #162</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -128,6 +128,7 @@
 |394. [Decode string](/Medium/Decode_string/Solution.cs)|  |  |
 |443. [String Compression](/Medium/String_compression/Solution.cs)|  |  |
 |451. [Sort Characters By Frequency](/Medium/Sort_characters_by_frequency/Solution.cs)|  |  |
+|498. [Diagonal Traverse](/Medium/Diagonal_traverse/Solution.cs)| 2 ms | 58.2 MB |
 |513. [Find Bottom Left Tree Value](/Medium/Find_bottom_left_tree_value/Solution.cs)|  |  |
 |539. [Minimum Time Difference](/Medium/Minimum_time_difference/Solution.cs)|  |  |
 |592. [Fraction Addition and Subtraction](/Medium/Fraction_addition_and_subtraction/Solution.cs)|  |  |

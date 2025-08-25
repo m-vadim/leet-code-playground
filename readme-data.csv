@@ -222,3 +222,4 @@ id, name, complexity, runtime, memory
 2131, "Longest Palindrome by Concatenating Two Letter Words", Medium, 48, 83
 904, "Fruit Into Baskets", Medium, 31, 53.68
 47, "Permutations II", Medium, 2, 49.18
+498, "Diagonal Traverse", Medium, 2, 58.2
