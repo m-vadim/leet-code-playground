@@ -214,7 +214,7 @@
 |2583. [Kth Largest Sum in a Binary Tree](/Medium/Kth_largest_sum_in_a_binary_tree/Solution.cs)|  |  |
 |2593. [Find Score of an Array After Marking All Elements](/Medium/Find_score_of_an_array_after_marking_all_elements/Solution.cs)| 608 ms | 65.1 MB |
 |2641. [Cousins in Binary Tree II](/Medium/Cousins_in_binary_tree_ii/Solution.cs)|  |  |
-|2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs)|  |  |
+|2785. [Sort Vowels in a String](/Medium/Sort_vowels_in_a_string/Solution.cs)| 69 ms | 56.4 MB |
 |2807. [Insert Greatest Common Divisors in Linked List](/Medium/Insert_greatest_common_divisors_in_linked_list/Solution.cs)|  |  |
 |2816. [Double a Number Represented as a Linked List](/Medium/Double_a_number_represented_as_a_linked_list/Solution.cs)|  |  |
 |2828. [Make String a Subsequence Using Cyclic Increments](/Medium/Make_string_a_subsequence_using_cyclic_increments/Solution.cs)| 3 ms | 51.51 MB |

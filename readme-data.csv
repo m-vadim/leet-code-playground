@@ -152,7 +152,7 @@ id, name, complexity, runtime, memory
 2405, "Optimal Partition of String", Medium,,
 2483, "Minimum Penalty for a Shop", Medium,,
 2487, "Remove Nodes From Linked List", Medium,,
-2785, "Sort Vowels in a String", Medium,,
+2785, "Sort Vowels in a String", Medium, 69, 56.4
 2816, "Double a Number Represented as a Linked List", Medium,,
 2849, "Determine if a Cell Is Reachable at a Given Time", Medium,,
 2870, "Minimum Number of Operations to Make Array Empty", Medium,,

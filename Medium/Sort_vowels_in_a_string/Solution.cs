@@ -2,39 +2,27 @@
 /// https://leetcode.com/problems/sort-vowels-in-a-string
 /// </summary>
 public class Solution {
-	private static readonly char[] Vowels = { 'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u' };
-	private const char Stub = '1';
-
+    private static readonly HashSet<char> Vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
+	
 	public string SortVowels(string s) {
-		var vowelsCount = new int[10];
-		char[] charArray = s.ToCharArray();
+        char[] arr = s.ToCharArray();
+		char[] vowels = new char[arr.Length];
 		
-		for (var i = 0; i < charArray.Length; i++) {
-			int index = Array.IndexOf(Vowels, charArray[i]);
-			if (index >= 0) {
-				vowelsCount[index] += 1;
-				charArray[i] = Stub;
+		int index = 0;
+		foreach(char ch in arr) {
+			if (Vowels.Contains(ch)) {
+				vowels[index++] = ch;
 			}
 		}
-
-		int from = 0;
 		
-		for (var i = 0; i < charArray.Length; i++) {
-			if (charArray[i] == Stub) {
-				while (from < vowelsCount.Length) {
-					if (vowelsCount[from] == 0) {
-						from++;
-					}
-					else {
-						vowelsCount[from] -= 1;
-						break;
-					}
-				}
-
-				charArray[i] = Vowels[from];
+		Array.Sort(vowels, 0, index);
+		index = 0;
+		for(int i = 0; i < arr.Length; i++) {
+			if (Vowels.Contains(arr[i])) {
+				arr[i] = vowels[index++];
 			}
 		}
-
-		return new string(charArray);
-	}
+		
+		return new string(arr);
+    }
 }
