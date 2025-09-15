@@ -223,3 +223,4 @@ id, name, complexity, runtime, memory
 904, "Fruit Into Baskets", Medium, 31, 53.68
 47, "Permutations II", Medium, 2, 49.18
 498, "Diagonal Traverse", Medium, 2, 58.2
+966, "Vowel Spellchecker", Medium, 38, 70.2

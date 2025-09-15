@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #162</b></summary>
+<summary><b>Medium  #163</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -152,6 +152,7 @@
 |945. [Minimum Increment to Make Array Unique](/Medium/Minimum_increment_to_make_array_unique/Solution.cs)|  |  |
 |950. [Reveal Cards In Increasing Order](/Medium/Reveal_cards_in_increasing_order/Solution.cs)|  |  |
 |951. [Flip Equivalent Binary Trees](/Medium/Flip_equivalent_binary_trees/Solution.cs)|  |  |
+|966. [Vowel Spellchecker](/Medium/Vowel_spellchecker/Solution.cs)| 38 ms | 70.2 MB |
 |986. [Interval List Intersections](/Medium/Interval_list_intersections/Solution.cs)|  |  |
 |1026. [Maximum Difference Between Node and Ancestor](/Medium/Maximum_difference_between_node_and_ancestor/Solution.cs)|  |  |
 |1079. [Letter Tile Possibilities](/Medium/Letter_tile_possibilities/Solution.cs)|  |  |
