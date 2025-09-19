@@ -225,3 +225,4 @@ id, name, complexity, runtime, memory
 498, "Diagonal Traverse", Medium, 2, 58.2
 966, "Vowel Spellchecker", Medium, 38, 70.2
 3408, "Design Task Manager", Medium, 2847, 220.13
+3484, "Design Spreadsheet", Medium, 22, 82.32
