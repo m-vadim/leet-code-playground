@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary><b>Medium  #166</b></summary>
+<summary><b>Medium  #167</b></summary>
 
 |Problem|Runtime|Memory|
 |--|--|--|
@@ -232,6 +232,7 @@
 |3356. [Zero Array Transformation II](/Medium/Zero_array_transformation_ii/Solution.cs)| 26 ms | 97.88 MB |
 |3408. [Design Task Manager](/Medium/Design_task_manager/Solution.cs)| 2847 ms | 220.13 MB |
 |3484. [Design Spreadsheet](/Medium/Design_spreadsheet/Solution.cs)| 22 ms | 82.32 MB |
+|3751. [Total Waviness of Numbers in Range I](/Medium/Total_waviness_of_numbers_in_range_i/Solution.cs)| 28 ms | 47 MB |
 
 </details>
 

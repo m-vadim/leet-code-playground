@@ -228,3 +228,4 @@ id, name, complexity, runtime, memory
 3484, "Design Spreadsheet", Medium, 22, 82.32
 3100, "Water Bottles II", Medium, 23, 29
 2574, "Left and Right Sum Differences", Easy, 1, 50.7
+3751, "Total Waviness of Numbers in Range I", Medium, 28, 47
